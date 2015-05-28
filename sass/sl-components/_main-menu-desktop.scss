@@ -19,7 +19,13 @@
 
 ul.nice-menu
 {
-    // margin-top: 50px;
+    .nolink {
+        display: block;
+        padding: 0.3em 5px 0.3em 5px;
+        &:hover {
+            cursor: pointer;
+        }
+    }
 }
 
 ul.nice-menu li
@@ -76,9 +82,10 @@ ul.nice-menu li
         border-top-right-radius: 4px;
         a
             {
-            color: black;
+            color: #000000;
+            font-weight: 700;
             &:hover {
-                color: black !important;
+                color: #000000 !important;
             }
             }
     }

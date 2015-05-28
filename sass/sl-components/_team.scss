@@ -1,0 +1,56 @@
+.node-team.view-mode-full
+{
+    @include breakpoint($iphone5)
+    {
+        // 100 % width for screen widths of iphone5 and below
+        .group-left,
+        .group-right
+        {
+            float: none;
+
+            width: 100%;
+        }
+    } // end breakpoint $iphone5
+    @include breakpoint($tablet) // 2 columns on iPad and desktop
+    {
+        .group-left
+        {
+            float: left;
+
+            width: 30%;
+        }
+        .group-right
+        {
+            float: left;
+
+            width: 67%;
+            margin-left: 3%;
+        }
+        .field-name-body p
+        {
+            a
+            {
+                text-transform: uppercase;
+            }
+        }
+    } // end brekpoint $tablet
+    .group-left {
+        .field-name-field-bild-team {
+            img {
+                display: block;
+                margin-bottom: 12px;
+                margin-bottom: 0.75rem;
+            }
+        }
+    }
+    .field-name-title h2 {
+        margin-top: 0;
+    }
+    iframe
+    {
+        @include breakpoint($iphone5-6)
+        {
+            width: 100%;
+        }
+    }
+}
