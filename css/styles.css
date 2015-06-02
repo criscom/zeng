@@ -723,7 +723,7 @@ a.label:hover, a.label:focus {
  * and $rhythm-unit variables. Also, correct text resizing oddly in IE 6/7 when
  * body `font-size` is set using `em` units.
  */
-/* line 106, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../../Users/cpotzinger/.rvm/gems/ruby-1.9.3-p448/gems/compass-core-1.0.1/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 1.5em;
@@ -1454,7 +1454,7 @@ th {
   *position: relative;
   *zoom: 1;
 }
-/* line 45, ../../../../../../Library/Ruby/Gems/2.0.0/gems/zen-grids-1.4/stylesheets/zen-grids/_grids.scss */
+/* line 45, ../../../../../Users/cpotzinger/.rvm/gems/ruby-1.9.3-p448/gems/zen-grids-2.0.0.beta.3/stylesheets/zen-grids/_grids.scss */
 .header:before, .header:after,
 .main:before,
 .main:after,
@@ -1463,7 +1463,7 @@ th {
   content: "";
   display: table;
 }
-/* line 50, ../../../../../../Library/Ruby/Gems/2.0.0/gems/zen-grids-1.4/stylesheets/zen-grids/_grids.scss */
+/* line 50, ../../../../../Users/cpotzinger/.rvm/gems/ruby-1.9.3-p448/gems/zen-grids-2.0.0.beta.3/stylesheets/zen-grids/_grids.scss */
 .header:after,
 .main:after,
 .footer:after {
@@ -1584,12 +1584,12 @@ th {
     /* Span 1 column, starting in the 2nd column from left. */
     /* Span 1 column, starting in the 3rd column from left. */
   }
-  /* line 45, ../../../../../../Library/Ruby/Gems/2.0.0/gems/zen-grids-1.4/stylesheets/zen-grids/_grids.scss */
+  /* line 45, ../../../../../Users/cpotzinger/.rvm/gems/ruby-1.9.3-p448/gems/zen-grids-2.0.0.beta.3/stylesheets/zen-grids/_grids.scss */
   .two-sidebars .region-sidebar-second:before, .two-sidebars .region-sidebar-second:after {
     content: "";
     display: table;
   }
-  /* line 50, ../../../../../../Library/Ruby/Gems/2.0.0/gems/zen-grids-1.4/stylesheets/zen-grids/_grids.scss */
+  /* line 50, ../../../../../Users/cpotzinger/.rvm/gems/ruby-1.9.3-p448/gems/zen-grids-2.0.0.beta.3/stylesheets/zen-grids/_grids.scss */
   .two-sidebars .region-sidebar-second:after {
     clear: both;
   }
@@ -1871,7 +1871,7 @@ label.option {
 /* line 44, ../sass/components/_autocomplete.scss */
 .autocomplete__input,
 html.js input.form-autocomplete {
-  background-image: url('../images/throbber.gif?1432807242');
+  background-image: url('../images/throbber.gif?1433151941');
   background-position: 100% 2px;
   /* LTR */
   background-repeat: no-repeat;
@@ -1938,7 +1938,7 @@ a.btn:hover {
 .collapsible .fieldset-legend {
   display: block;
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABJJREFUeJxj+MdQw2DBIMAABgAUsAHD3c3BpwAAAABJRU5ErkJggg==');
-  *background-image: url('../images/menu-expanded.png?1432807241');
+  *background-image: url('../images/menu-expanded.png?1433151941');
   background-position: 5px 65%;
   /* LTR */
   background-repeat: no-repeat;
@@ -1951,7 +1951,7 @@ a.btn:hover {
 .collapsed .fieldset-legend {
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABFJREFUCB1jVmCGQClmEWYOAAZ8AMy3HPLXAAAAAElFTkSuQmCC');
   /* LTR */
-  *background-image: url('../images/menu-collapsed.png?1432807241');
+  *background-image: url('../images/menu-collapsed.png?1433151941');
   /* LTR */
   background-position: 5px 50%;
   /* LTR */
@@ -2100,7 +2100,7 @@ html.js #user-login-form li.openid-link,
 .progress .filled {
   height: 1.5em;
   width: 5px;
-  background: #0072b9 url('../images/progress.gif?1432807242') repeat 0 0;
+  background: #0072b9 url('../images/progress.gif?1433151941') repeat 0 0;
 }
 
 /* line 28, ../sass/components/_progress-bar.scss */
@@ -2120,7 +2120,7 @@ html.js #user-login-form li.openid-link,
 /* line 38, ../sass/components/_progress-bar.scss */
 .progress-bar--ajax__throbber,
 .ajax-progress .throbber {
-  background: transparent url('../images/throbber.gif?1432807242') no-repeat 0px -18px;
+  background: transparent url('../images/throbber.gif?1433151941') no-repeat 0px -18px;
   float: left;
   /* LTR */
   height: 15px;
@@ -2152,7 +2152,7 @@ tr .progress-bar--ajax__throbber, tr .ajax-progress .throbber, .ajax-progress tr
 /* line 7, ../sass/components/_resizable-textarea.scss */
 .resizable-textarea__grippie,
 .resizable-textarea .grippie {
-  background: #eee url('../images/grippie.png?1432807240') no-repeat center 2px;
+  background: #eee url('../images/grippie.png?1433151941') no-repeat center 2px;
   border: 1px solid #ddd;
   border-top-width: 0;
   cursor: s-resize;
@@ -2205,7 +2205,7 @@ tr.drag-previous {
 .drag__handle-icon,
 .tabledrag-handle .handle {
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAA8CAMAAACO5hB7AAAALVBMVEUAAAD///////8AAAAQEBBycnJ7e3uFhYWLi4uTk5OZmZnCwsLe3t7l5eXw8PBW32uGAAAAA3RSTlMAQb9IyhSHAAAAi0lEQVR42sVOAQ4DIQibsIF3Kv9/7szgQlgfYBNC2trKyzFiP7SPQi/RIixZSbZjYns/j+easuceXiWBj4YQvgzMY79HPIv35Q1noZX2txaXuQqTZ81ydnRetn1brJ5NhJA+5rE/OrQKCvcfBf1Ro0qtCs1aEgpOQa219htymiDwIQ/9+D/e59kj+ALoHAYllVUliQAAAABJRU5ErkJggg==') no-repeat 6px 9px;
-  *background: url('../images/draggable.png?1432807240') no-repeat 6px 9px;
+  *background: url('../images/draggable.png?1433151941') no-repeat 6px 9px;
   height: 13px;
   margin: -0.4em 0.5em;
   padding: 0.42em 0.5em;
@@ -2251,7 +2251,7 @@ tr.drag-previous {
 .tree-child {
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABRAgMAAAA4I8mbAAAACVBMVEX///+FhYWAgICko1U2AAAAAXRSTlMAQObYZgAAACdJREFUOE9jWIUFMDQwYACmUcFRwVFBnIKj+WhUcFSQcsGpoRggDAA5C0kS2yLjkQAAAABJRU5ErkJggg==') no-repeat 11px center;
   /* LTR */
-  *background: url('../images/tree.png?1432807243') no-repeat 11px center;
+  *background: url('../images/tree.png?1433151941') no-repeat 11px center;
 }
 
 /* line 80, ../sass/components/_tabledrag.scss */
@@ -2259,7 +2259,7 @@ tr.drag-previous {
 .tree-child-last {
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABRAgMAAAA4I8mbAAAACVBMVEX///+FhYWAgICko1U2AAAAAXRSTlMAQObYZgAAACZJREFUOMtjWIUFMDQwYACmUcFRwVFBnIJTQzFAGMMoGAWjgGIAALExJ/w2ePm7AAAAAElFTkSuQmCC') no-repeat 11px center;
   /* LTR */
-  *background: url('../images/tree-bottom.png?1432807242') no-repeat 11px center;
+  *background: url('../images/tree-bottom.png?1433151941') no-repeat 11px center;
 }
 
 /* line 88, ../sass/components/_tabledrag.scss */
@@ -2496,7 +2496,7 @@ span.field-label {
   padding: 10px 10px 10px 50px;
   /* LTR */
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAD6UlEQVR42s2WX0xbVRzH3YwmC4k+GF/0ZS/S267/bmnX9nL7bwstZlnbjTDYyoC5GCbB0ZW5pdJCe6swbLFA6bpWIGuRMWVjKGP+21QW3SZBSAjGh4XEaTZTH82Cm/3ztS2xs7mw4KLRk3xyzj33/H6fe5Pz7zEA/yr/vUDukj9FH6drqTaqT8EoPs/UV+nX6TD1BlUh9AqLHlmgPKLcRHmoCOWmElK/FOKTYpS8UwLJkASiUyLI3pKhlClN0g46qj+qL/pbArlbrlO1q25JeiSgR2iYJ8ywXLSg/qP6LNl2ro8+Q4MMkKCd9K2t3q3KdQnkXXIF5aISkgEJzONm1F2qW52pDJN1MI2bUBIuAdVOJWSMTPNQgX6/vkjVpvpREpag6oMqWCYta1IzbsHh9ga0RJtzY8URMdRO9U/KSuWmNQUqh2pY3CtG+fvlqJyofMAFNrZAE+7e/RWR4X4cD9tgOGsA2U2CdtMDqwqyMyIzQ5KKqAKmcyaYxkzYd3YvjGNGFtXRPRj58DT+LOemRrFnrBLyITmUDmUyO/NYgu2d26ukHVJo3tXAMGpAs+cQmh0NeClan30uwN7TgnQ6nRd4r3thOGOAJqYB2UVC79AfZAnKHGUxQa8A2tNaNLW/jKvXv8Dyb8s4yryKA4O10A3roIvpUB+swTdz1/LJZ27PQBvT5lBH1RD4BChzlQ2wBNtc22aE/ULQgzRCl4P5BPcT93GMOYz9wb2QhCRgAq35d8u/L2PXe7tADVGgBlcQ+AXQtmlvsP/gzbJZvp8PMkJCFBYh8m0knyiVSsHe0YIGZz1+/uVOvt8z7QGvnwf+ST5EIRHIUyR4fh50rbp5lsDcYR4ReAXgBrng9q/Qfa0bfy035r7Ot2dvz4IX4IEIEAXwvDzscOw4zxJUd1YfEXlE4Aa4BQHMlwzSSBeI7iXvoTxWDqKPYCFsFaKmr+YVliB0JfS89DVpiuhlB9k/tSOZTuYFvq98yI7L0/MAsVWcGp0bfW61hbahwltxSeARsIKyWKesSKQSWIwvYkvvllwfx88pgOvhwthu/AzAxlVX8vz385tLbaVxwpcLZtEw0QDjsBGctzksiE4CimZFfHp++oWHbnbuUfdB0komMgHsRN1r0MWBsEmYODF5onY92/UTwcvBxuzXcN1ccHycVSn2FaPYWwzCQUDWKIt7z3utAJ5c74Hz+OLSomynY+cVfiM/xW3JiDyZpB3FuZrj4oCwE+Ad4qWMjPHjpTtL0mzMoxyZz9yM39Q7Y85Ok930icqm+k59TL2wm9l90dZv8y/8sPAigGf/iUN/Q4anM2zOsdLe+L+4VfwBVVjDs2rTYx0AAAAASUVORK5CYII=');
-  *background-image: url('../images/message-24-ok.png?1432807242');
+  *background-image: url('../images/message-24-ok.png?1433151941');
   background-position: 8px 8px;
   /* LTR */
   background-repeat: no-repeat;
@@ -2506,14 +2506,14 @@ span.field-label {
 /* line 24, ../sass/components/_messages.scss */
 .messages--warning {
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACuElEQVRIiWP4//8/Ay0xSYqntTpnT252zqeJBf0Njhsykrz/pyd6/e9vcNpGVQv6q2wlm0qc/r0+IPD/3UG+/61l9v9mdrjIUc2C7hqHUzc3S///eZwBjO9tF/vfWe1wjioWTKixVm8otPn38wQT3IKfxxn/t5Va/utpsNSg2ILWcttrNzdJgQ3+dpQRjEHs+9tE/zeXWt+gyILOamuTqlxrsOtPLub+7+emBsSq/88v5wL7oqHQ9H9nmbkF2RbUF1rev7lJEuziuU3i/90ddcB4UZsoJC62ifyvK7R4QJYFrcUGrmUZ5v9hYb9hosh/bzcDMN42VRgeF9W5hv8bi/XdSbagKtfs2c1NEvCIPbaQ/7+/pwkYn17Ki0hR24T/l2eZPCfJgsZ83dCiNOP/yCnn7iau/8G+5mD8aBsHSoqqyNL9X5erHUm0BcVpRm9ubhZHMoTh/4eDzP/DA23+RwTZ/P96hAlF7t5Wof8FyfpvibKgNk8noyDZ4D9quofg1Bjr/1kJlhjiIF+Upmn/r83RzCJoQXaC3qcbm8SwGMLwvybP/H8jMGlik7u7VeB/Zqz2J7wWVGdr1uTG62J1PQgfWST1/+hiCaxyIF8UJqv9r8hQrcVpQVqkzrcbG0WwGvB2H/P/lnx5MAaxsam5vYn3f2KY+jesFpSlqfZnxWjidP2OGWL/g/0swBjExu4Lhv958Ur/i5KU+lEsCA1lYI4JUv95bZ0gTo2Pt3P+z0myBmMQG5e6mxu4/kf4Kf8EmQm3oCRNebKrvSawIGPBqRG9sMOp5hjjfwdrlf/58bKT4RaUpWvtcLZV/39iscD/H0AFP46jYwYiMeP/44u4/9tbKQODSXUH3II9G7v18hI0n8YGKv+IDVT6joxj/BVx4mgcOCde/SnITPRUJAHEGlTCEkQV19TAAN8FC67hZdFXAAAAAElFTkSuQmCC');
-  *background-image: url('../images/message-24-warning.png?1432807242');
+  *background-image: url('../images/message-24-warning.png?1433151941');
   border-color: #ed5;
 }
 
 /* line 35, ../sass/components/_messages.scss */
 .messages--error {
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACpElEQVR42rWWTUgbQRiGQ0Tx4MWDeFM8eBA9iKAoggiCoCiiIiL4L3oQV1CJB0UEf6iRYFpK7UniTw9VSqL2kvQsVDBpSZrtRo35czVNW3oprRf17exSl4yzu1ikAy9h59vvedhkMrMGAGoxknAk2w8MJ/WosXThiZkZt9jdLeglPjn5ATc3mhJNuNjbK0QbG3ExMICL/n6IfX0gcxB7ekDAELu6IHZ2IlJbi1hLS1BLogmPtbUhMTv7oMSamzUlqnByMxLT0/8STQkDj9TV4ZLj5OysrODl8jIu5Gs68dFR7JG6dWkJ0fFx+TpSX89IDMnwcHU1yKec12Yz3rlc4HkeLwjkXJpPip3U3+7vIx6P4ymph4eG5PlwTQ0lMdytlmBxMWKtrXLeT0zA5XTibvj9fjxfXETkb/3N/Dz2dneVuiTZtliU/rPSUsQ5ziuxZYG03IIlJdKKUPJjdRUAKMmzuTnskB/VYbdTtd9HR4g2NCi9Z2VliDY1BSnBaUEBzsrLqXyzWCiQ9HU5HA4afniIUFWV0hOqqMBpURErOM7NxWlhIZOvCwvA7S3Uxq+DA5AnZ3pO8vJYQSArC8c5Oeqx2Rj4udeLQH6+6v2B7GxW8DkjA0JmJpONwUHY7XZGIAgCzCYTeJUewmIFfqMRfEoKlQ2yJbza2oLWcLvdeDI2hk/3+iQWKzAYkJzNjg5srq9TwJ9OJ76YTNScx+ORJT66X1/grKyEbW2NgfPp6XKd/JMZySrHaQsSU1Oe+0/w3WpVgyu5HBlR6lc+H8gioevDwz6JrWwV5+3txyoSFk5DcOX1MnCyJ4Vwfb1zt1UY9SR8aioDpuppaVpwZbPTl+hHF04dOKzk8XBF8DgJC3/woU/W/EciOtELOWi8DDwp//215Q+p7kiKh2lQSAAAAABJRU5ErkJggg==');
-  *background-image: url('../images/message-24-error.png?1432807242');
+  *background-image: url('../images/message-24-error.png?1433151941');
   border-color: #ed541d;
 }
 
@@ -2553,7 +2553,7 @@ span.field-label {
 /* line 12, ../sass/components/_more-link.scss */
 .more-help-link a {
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVR42qWTPQqDQBCFcwSPkCNITpAj5AjeIm1uYpkyR7Cy2Mot7OwsBAsRwUKwmOwLGRle3EIy8PyBfZ/z3J2TiPylz8VWWZZpUB40BonRKyizaxkA88MYYiqCEgv4MTvnZJom0VqWRbz3FlJZgLYtqmEY1Lg9r+sKsIXcLSC3AC019H0vqLquLeC5AfiHYSGkcdAJimKIBQiJ4+CO92OAtm0FNc8zOjkMwE5Q63FAtbeg6zpAYvG8BWR7i5qmQYwY4MIHqYhE2DOPQWcGJBQF2XU72ZzyUeZ5GCNt5/hybJgYdAXsq5sOEE/jG6dC5IOqCXTmAAAAAElFTkSuQmCC');
-  *background-image: url('../images/help.png?1432807241');
+  *background-image: url('../images/help.png?1433151941');
   background-position: 0 50%;
   /* LTR */
   background-repeat: no-repeat;
@@ -2652,14 +2652,14 @@ span.field-label {
 /* line 6, ../sass/components/_side-menu.scss */
 .menu__item.is-leaf {
   list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHBAMAAAA2fErgAAAAD1BMVEX///+/v7+Li4sAAADAwMBFvsw8AAAAAXRSTlMAQObYZgAAAB1JREFUCFtjYAADYwMGBmYVZSDhKAwkFJWhYiAAAB2+Aa/9ugeaAAAAAElFTkSuQmCC');
-  *list-style-image: url('../images/menu-leaf.png?1432807241');
+  *list-style-image: url('../images/menu-leaf.png?1433151941');
   list-style-type: square;
 }
 
 /* line 13, ../sass/components/_side-menu.scss */
 .menu__item.is-expanded {
   list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABJJREFUeJxj+MdQw2DBIMAABgAUsAHD3c3BpwAAAABJRU5ErkJggg==');
-  *list-style-image: url('../images/menu-expanded.png?1432807241');
+  *list-style-image: url('../images/menu-expanded.png?1433151941');
   list-style-type: circle;
 }
 
@@ -2667,7 +2667,7 @@ span.field-label {
 .menu__item.is-collapsed {
   list-style-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHAQMAAAD+nMWQAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAABFJREFUCB1jVmCGQClmEWYOAAZ8AMy3HPLXAAAAAElFTkSuQmCC');
   /* LTR */
-  *list-style-image: url('../images/menu-collapsed.png?1432807241');
+  *list-style-image: url('../images/menu-collapsed.png?1433151941');
   /* LTR */
   list-style-type: disc;
 }
@@ -3343,7 +3343,7 @@ body, [role='main'] p,
 .wohnungsdetails-link a,
 li a,
 .link a,
-.field-slideshow-caption-text a, h1, ul.nice-menu li a, .webform-component label {
+.field-slideshow-caption-text a, h1, ul.nice-menu li a {
   font-weight: 300;
 }
 
@@ -3352,18 +3352,10 @@ li a,
   font-weight: 500;
 }
 
-/* line 20, ../sass/library/_placeholders.scss */
-.node-wohnung .label-inline,
-.node-wohnung .label-above {
-  font-weight: 700;
-}
-
 /* line 24, ../sass/library/_placeholders.scss */
 .panel-2col-stacked .panel-col-top,
 .panel-2col-stacked .center-wrapper .panel-col-first,
-.panel-2col-stacked .center-wrapper .panel-col-last, .center-wrapper.one .panel-panel, .center-wrapper.two .panel-col-first, .center-wrapper.two .panel-col-last, .node-wohnung .group-top,
-.node-wohnung .group-left,
-.node-wohnung .group-right {
+.panel-2col-stacked .center-wrapper .panel-col-last, .center-wrapper.one .panel-panel, .center-wrapper.two .panel-col-first, .center-wrapper.two .panel-col-last {
   background-color: #f5f5f5;
   padding: 16px;
   padding: 1rem;
@@ -3371,7 +3363,7 @@ li a,
 }
 
 /* line 39, ../sass/library/_placeholders.scss */
-.center-wrapper.two .node, .field-name-field-object-reference {
+.center-wrapper.two .node {
   padding-bottom: 16px;
   padding-bottom: 1rem;
   border-bottom: 1px solid #777777;
@@ -3384,7 +3376,7 @@ li a,
 }
 
 /* line 51, ../sass/library/_placeholders.scss */
-.front .center-wrapper.one .panel-panel, .panel-2col-stacked .panel-col-top, .center-wrapper.one .panel-panel, .node-wohnung .group-top {
+.front .center-wrapper.one .panel-panel, .panel-2col-stacked .panel-col-top, .center-wrapper.one .panel-panel {
   margin-bottom: 24px;
   margin-bottom: 1.5rem;
 }
@@ -4273,7 +4265,7 @@ ul.nice-menu ul li a:active {
 }
 
 @media (max-width: 568px) {
-  /* line 6, ../sass/sl-components/_team.scss */
+  /* line 7, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .group-left,
   .node-team.view-mode-full .group-right {
     float: none;
@@ -4281,266 +4273,111 @@ ul.nice-menu ul li a:active {
   }
 }
 @media (min-width: 569px) {
-  /* line 16, ../sass/sl-components/_team.scss */
+  /* line 17, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .group-left {
     float: left;
     width: 30%;
   }
-  /* line 22, ../sass/sl-components/_team.scss */
+  /* line 23, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .group-right {
     float: left;
     width: 67%;
     margin-left: 3%;
   }
-  /* line 31, ../sass/sl-components/_team.scss */
+  /* line 32, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .field-name-body p a {
     text-transform: uppercase;
   }
 }
-/* line 39, ../sass/sl-components/_team.scss */
+/* line 42, ../sass/sl-components/_team.scss */
 .node-team.view-mode-full .group-left .field-name-field-bild-team img {
   display: block;
   margin-bottom: 12px;
-  margin-bottom: 0.75rem;
+  margin-bottom: .75rem;
 }
-/* line 46, ../sass/sl-components/_team.scss */
+/* line 51, ../sass/sl-components/_team.scss */
 .node-team.view-mode-full .field-name-title h2 {
   margin-top: 0;
 }
 @media (max-width: 767px) {
-  /* line 49, ../sass/sl-components/_team.scss */
+  /* line 55, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full iframe {
     width: 100%;
   }
 }
 
-/* CSS code for wohnung detail page
-** added by criscom
-** /wohnung/wohnung-1-4-zimmer-wohnung-4-er-wg
-*/
-/* line 7, ../sass/sl-components/_wohnung.scss */
-.flippy {
-  padding-left: 16px;
-  padding-left: 1rem;
-}
-/* line 10, ../sass/sl-components/_wohnung.scss */
-.flippy .prev {
-  padding-left: 0;
-}
-
-/* line 15, ../sass/sl-components/_wohnung.scss */
-h1.object-title {
-  margin-top: 12px;
-  margin-top: .75rem;
-  text-transform: uppercase;
-}
-
 @media (min-width: 569px) {
-  /* line 36, ../sass/sl-components/_wohnung.scss */
-  .node-wohnung .group-left {
-    width: 68%;
+  /* line 70, ../sass/sl-components/_team.scss */
+  .view-team-landing-page .views-row {
+    float: left;
+    width: 49%;
+    margin-right: 2%;
   }
-  /* line 40, ../sass/sl-components/_wohnung.scss */
-  .node-wohnung .group-right {
-    width: 30%;
-    margin-left: 2%;
+  /* line 77, ../sass/sl-components/_team.scss */
+  .view-team-landing-page .view-even {
+    clear: left;
+  }
+  /* line 81, ../sass/sl-components/_team.scss */
+  .view-team-landing-page .views-row-odd {
+    margin-right: 0;
+  }
+}
+@media (min-width: 980px) {
+  /* line 88, ../sass/sl-components/_team.scss */
+  .view-team-landing-page .views-row {
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+  }
+  /* line 95, ../sass/sl-components/_team.scss */
+  .view-team-landing-page .views-row-1,
+  .view-team-landing-page .views-row-5,
+  .view-team-landing-page .views-row-9,
+  .view-team-landing-page .views-row-13,
+  .view-team-landing-page .views-row-17,
+  .view-team-landing-page .views-row-21,
+  .view-team-landing-page .views-row-25 {
+    clear: left;
   }
 }
 @media (max-width: 568px) {
-  /* line 48, ../sass/sl-components/_wohnung.scss */
-  .node-wohnung .group-left {
-    width: 100%;
-  }
-  /* line 52, ../sass/sl-components/_wohnung.scss */
-  .node-wohnung .group-right {
+  /* line 108, ../sass/sl-components/_team.scss */
+  .view-team-landing-page .views-row {
     width: 100%;
   }
 }
-/* line 57, ../sass/sl-components/_wohnung.scss */
-.node-wohnung .group-left {
-  float: left;
+/* line 115, ../sass/sl-components/_team.scss */
+.view-team-landing-page .views-row .node-team {
+  border: 1px solid #dddddd;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.055);
+  -webkit-transition: all, 0.2s, ease-in-out;
+  -o-transition: all, 0.2s, ease-in-out;
+  transition: all, 0.2s, ease-in-out;
+  text-align: center;
+  margin-bottom: 14px;
+  margin-bottom: 0.875rem;
 }
-/* line 61, ../sass/sl-components/_wohnung.scss */
-.node-wohnung .group-right {
-  float: right;
-}
-
-/* line 90, ../sass/sl-components/_wohnung.scss */
-.group-wrapper-info {
-  margin: 24px 0 16px;
-  margin: 1.5rem 0 1rem;
-  padding: 24px 0;
-  padding: 1.5rem 0;
-  border-top: 1px solid #777777;
-  border-bottom: 1px solid #777777;
-}
-/* line 99, ../sass/sl-components/_wohnung.scss */
-.group-wrapper-info .btn.availability,
-.group-wrapper-info .field-name-wohnung-provisionsfrei {
-  display: inline-block;
-}
-
-/* line 106, ../sass/sl-components/_wohnung.scss */
-.btn.availability {
-  margin-right: 12px;
-  margin-right: .75rem;
-}
-
-/* line 114, ../sass/sl-components/_wohnung.scss */
-.Verfügbar .btn.availability {
-  color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
-}
-/* line 11, ../sass/bootstrap/mixins/_buttons.scss */
-.Verfügbar .btn.availability:hover, .Verfügbar .btn.availability:focus, .Verfügbar .btn.availability:active, .Verfügbar .btn.availability.active, .open > .Verfügbar .btn.availability.dropdown-toggle {
-  color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
-}
-/* line 20, ../sass/bootstrap/mixins/_buttons.scss */
-.Verfügbar .btn.availability:active, .Verfügbar .btn.availability.active, .open > .Verfügbar .btn.availability.dropdown-toggle {
-  background-image: none;
-}
-/* line 28, ../sass/bootstrap/mixins/_buttons.scss */
-.Verfügbar .btn.availability.disabled, .Verfügbar .btn.availability.disabled:hover, .Verfügbar .btn.availability.disabled:focus, .Verfügbar .btn.availability.disabled:active, .Verfügbar .btn.availability.disabled.active, .Verfügbar .btn.availability[disabled], .Verfügbar .btn.availability[disabled]:hover, .Verfügbar .btn.availability[disabled]:focus, .Verfügbar .btn.availability[disabled]:active, .Verfügbar .btn.availability[disabled].active, fieldset[disabled] .Verfügbar .btn.availability, fieldset[disabled] .Verfügbar .btn.availability:hover, fieldset[disabled] .Verfügbar .btn.availability:focus, fieldset[disabled] .Verfügbar .btn.availability:active, fieldset[disabled] .Verfügbar .btn.availability.active {
-  background-color: #5cb85c;
-  border-color: #4cae4c;
-}
-/* line 38, ../sass/bootstrap/mixins/_buttons.scss */
-.Verfügbar .btn.availability .badge {
-  color: #5cb85c;
-  background-color: #fff;
-}
-/* line 117, ../sass/sl-components/_wohnung.scss */
-.Verfügbar .btn.availability:hover {
-  cursor: default;
-}
-
-/* line 125, ../sass/sl-components/_wohnung.scss */
-.Nicht.verfügbar .btn.availability {
-  color: #fff;
-  background-color: #d9534f;
-  border-color: #d43f3a;
-}
-/* line 11, ../sass/bootstrap/mixins/_buttons.scss */
-.Nicht.verfügbar .btn.availability:hover, .Nicht.verfügbar .btn.availability:focus, .Nicht.verfügbar .btn.availability:active, .Nicht.verfügbar .btn.availability.active, .open > .Nicht.verfügbar .btn.availability.dropdown-toggle {
-  color: #fff;
-  background-color: #c9302c;
-  border-color: #ac2925;
-}
-/* line 20, ../sass/bootstrap/mixins/_buttons.scss */
-.Nicht.verfügbar .btn.availability:active, .Nicht.verfügbar .btn.availability.active, .open > .Nicht.verfügbar .btn.availability.dropdown-toggle {
-  background-image: none;
-}
-/* line 28, ../sass/bootstrap/mixins/_buttons.scss */
-.Nicht.verfügbar .btn.availability.disabled, .Nicht.verfügbar .btn.availability.disabled:hover, .Nicht.verfügbar .btn.availability.disabled:focus, .Nicht.verfügbar .btn.availability.disabled:active, .Nicht.verfügbar .btn.availability.disabled.active, .Nicht.verfügbar .btn.availability[disabled], .Nicht.verfügbar .btn.availability[disabled]:hover, .Nicht.verfügbar .btn.availability[disabled]:focus, .Nicht.verfügbar .btn.availability[disabled]:active, .Nicht.verfügbar .btn.availability[disabled].active, fieldset[disabled] .Nicht.verfügbar .btn.availability, fieldset[disabled] .Nicht.verfügbar .btn.availability:hover, fieldset[disabled] .Nicht.verfügbar .btn.availability:focus, fieldset[disabled] .Nicht.verfügbar .btn.availability:active, fieldset[disabled] .Nicht.verfügbar .btn.availability.active {
-  background-color: #d9534f;
-  border-color: #d43f3a;
-}
-/* line 38, ../sass/bootstrap/mixins/_buttons.scss */
-.Nicht.verfügbar .btn.availability .badge {
-  color: #d9534f;
-  background-color: #fff;
-}
-/* line 128, ../sass/sl-components/_wohnung.scss */
-.Nicht.verfügbar .btn.availability:hover {
-  cursor: default;
-}
-
-/* line 137, ../sass/sl-components/_wohnung.scss */
-.field-name-wohnung-provisionsfrei .btn:hover {
-  cursor: default;
-}
-
-/* line 143, ../sass/sl-components/_wohnung.scss */
-ul.field-slideshow-pager {
-  margin-bottom: 24px;
-  margin-bottom: 1.5rem;
-  padding-left: 0;
-  list-style: none;
-}
-/* line 6, ../sass/library/_clearfix.scss */
-ul.field-slideshow-pager:before {
-  content: '';
-  display: table;
-}
-/* line 11, ../sass/library/_clearfix.scss */
-ul.field-slideshow-pager:after {
-  content: '';
-  display: table;
-  clear: both;
-}
-/* line 11, ../sass/library/_lists.scss */
-ul.field-slideshow-pager li {
-  list-style-image: none;
-  list-style-type: none;
-  margin-left: 0;
-}
-/* line 151, ../sass/sl-components/_wohnung.scss */
-ul.field-slideshow-pager li {
-  margin-bottom: 5px;
-  margin-bottom: .3125rem;
-}
-
-/* line 158, ../sass/sl-components/_wohnung.scss */
-.wrapper {
-  clear: both;
-  margin: 16px 0;
-  margin: 1rem 0;
-}
-
-/* line 166, ../sass/sl-components/_wohnung.scss */
-.suffix {
-  font-size: 13.28px;
-  font-style: italic;
-}
-
-/* line 174, ../sass/sl-components/_wohnung.scss */
-.field-name-wohnung-wohnung-anfragen h2 {
+/* line 128, ../sass/sl-components/_team.scss */
+.view-team-landing-page .field-name-title h2 {
+  font-size: 16px;
+  font-size: 1rem;
   margin-top: 0;
+  margin-bottom: 0;
 }
-
-/* line 182, ../sass/sl-components/_wohnung.scss */
-.webform-component label {
+/* line 136, ../sass/sl-components/_team.scss */
+.view-team-landing-page .field-name-field-bild-team {
+  margin-bottom: 12px;
+  margin-bottom: .75rem;
+}
+/* line 141, ../sass/sl-components/_team.scss */
+.view-team-landing-page .field-name-field-informationen p,
+.view-team-landing-page .wrapper > span {
   font-size: 14px;
-  font-size: .875rem;
-  font-style: italic;
-  color: #777777;
-}
-/* line 193, ../sass/sl-components/_wohnung.scss */
-.webform-component input,
-.webform-component textarea {
-  border: 1px solid #e2e2e2;
-  -webkit-box-shadow: #eee 0px 0px 10px inset;
-  box-shadow: #eee 0px 0px 10px inset;
-}
-
-/* line 204, ../sass/sl-components/_wohnung.scss */
-.node-wohnung .field-name-field-page-reference {
-  margin-top: 24px;
-  margin-top: 1.5rem;
-  padding-top: 16px;
-  padding-top: 1rem;
-  border-top: 1px solid #777777;
-}
-/* line 212, ../sass/sl-components/_wohnung.scss */
-.node-wohnung .field-name-field-page-reference h2 {
-  margin-top: 0;
-}
-
-/* line 219, ../sass/sl-components/_wohnung.scss */
-.field-name-field-text-links ul {
-  display: -webkit-flex;
-  -webkit-flex-flow: row wrap;
-  -webkit-justy-content: space-around;
-  display: flex;
-  flex-flow: row wrap;
-  justy-content: space-around;
-}
-/* line 225, ../sass/sl-components/_wohnung.scss */
-.field-name-field-text-links ul li {
-  width: 250px;
+  font-size: 0.875rem;
 }
 
 /* @TODO: Refactor print states into their respective components. */

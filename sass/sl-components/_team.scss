@@ -1,3 +1,4 @@
+// two columns
 .node-team.view-mode-full
 {
     @include breakpoint($iphone5)
@@ -34,16 +35,21 @@
             }
         }
     } // end brekpoint $tablet
-    .group-left {
-        .field-name-field-bild-team {
-            img {
+    .group-left
+    {
+        .field-name-field-bild-team
+        {
+            img
+            {
                 display: block;
+
                 margin-bottom: 12px;
-                margin-bottom: 0.75rem;
+                margin-bottom: .75rem;
             }
         }
     }
-    .field-name-title h2 {
+    .field-name-title h2
+    {
         margin-top: 0;
     }
     iframe
@@ -52,5 +58,89 @@
         {
             width: 100%;
         }
+    }
+}
+
+// one column
+
+.view-team-landing-page
+{
+    @include breakpoint($tablet)
+    {
+        .views-row
+        {
+            float: left;
+
+            width: 49%;
+            margin-right: 2%;
+        }
+        .view-even
+        {
+            clear: left;
+        }
+        .views-row-odd
+        {
+            margin-right: 0;
+        }
+    }
+    @include breakpoint($large)
+    {
+        .views-row
+        {
+            float: left;
+
+            width: 24%;
+            margin-right: 1%;
+        }
+        .views-row-1,
+        .views-row-5,
+        .views-row-9,
+        .views-row-13,
+        .views-row-17,
+        .views-row-21,
+        .views-row-25
+        {
+            clear: left;
+        }
+    }
+    @include breakpoint($max568)
+    {
+        .views-row
+        {
+            width: 100%;
+        }
+    }
+    // rows
+    .views-row {
+        .node-team {
+            border: 1px solid $box;
+            @include border-radius(4px);
+            @include box-shadow(0 1px 3px rgba(0, 0, 0, 0.055));
+            @include transition(all, 0.2s, ease-in-out);
+            text-align: center;
+            margin-bottom: 14px;
+            margin-bottom: 0.875rem;
+        }
+    }
+    // fields
+    .field-name-title
+    {
+        h2
+        {
+            font-size: 16px;
+            font-size: 1rem;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+    .field-name-field-bild-team
+    {
+        margin-bottom: 12px;
+        margin-bottom: .75rem;
+    }
+    .field-name-field-informationen p,
+    .wrapper > span {
+        font-size: 14px;
+        font-size: 0.875rem;
     }
 }
