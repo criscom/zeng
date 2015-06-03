@@ -1,0 +1,23 @@
+
+.node-projekt.view-mode-full {
+    .group-left {
+        width: 40% ;
+    }
+    .group-right {
+        width: 60% ;
+    }
+    @include breakpoint($max630) {
+        .group-left,
+        .group-right {
+            float: none;
+            width: 100%;
+        }
+        // $zen-columns: 2 !global;
+        // .group-left {
+        //     @include zen-grid-item(1,2);
+        // }
+        // .group-right {
+        //     @include zen-grid-item(1,1);
+        // }
+    }
+}

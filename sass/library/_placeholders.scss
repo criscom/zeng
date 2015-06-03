@@ -9,23 +9,28 @@
     font-size: 1.125rem;
 }
 
-%base-font-weight {
+%base-font-weight
+{
     font-weight: 300;
 }
 
-%medium-font-weight {
+%medium-font-weight
+{
     font-weight: 500;
 }
 
-%bold-font-weight {
+%bold-font-weight
+{
     font-weight: 700;
 }
 
-%base-background {
-    background-color: $breadcrumb-bg;
+%base-background
+{
     padding: 16px;
     padding: 1rem;
+
     border-radius: 4px;
+    background-color: $breadcrumb-bg;
 }
 
 %header-large
@@ -36,32 +41,51 @@
     font-weight: 700;
 }
 
-%header {
+%header
+{
     font-size: 32px;
     font-size: 2rem;
+    font-weight: 300;
+
     text-transform: uppercase;
+
     @include single-text-shadow;
 }
 
-%divider { // creates a dark gray line to divide sections in a background area
+%header-boxes
+{
+    font-size: 20px;
+    font-size: 1.25rem;
+    line-height: 24px;
+    line-height: 1.5rem;
+    font-weight: 300;
+}
+
+%divider
+{
+    // creates a dark gray line to divide sections in a background area
     padding-bottom: 16px;
     padding-bottom: 1rem;
+
     border-bottom: 1px solid $gray-light;
 }
 
-%divider-node {
-    @extend %divider;
+%divider-node
+{
     margin-bottom: 32px;
     margin-bottom: 2rem;
+
+    @extend %divider;
 }
 
-%white-space {
+%white-space
+{
     margin-bottom: $white-space-px;
     margin-bottom: $white-space-rem;
 }
 
 // From SASS and Compass for Webdesigners _placeholder.scss line 4ff
-%single-transition {
-  @include single-transition(all, .3s, ease, 0s);
+%single-transition
+{
+    @include single-transition(all, .3s, ease, 0s);
 }
-

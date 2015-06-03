@@ -1,0 +1,49 @@
+
+// Box layout for team and partners landing pages
+
+@mixin boxes
+{
+    .views-row
+    {
+        float: left;
+
+        width: 270px;
+        margin: 10px;
+        margin: .625rem;
+        padding: 0 6px;
+        padding: 0 .375rem;
+
+        text-align: center;
+
+        border: 1px solid $box;
+
+        @include border-radius(4px);
+        @include box-shadow(0 1px 3px rgba(0, 0, 0, .055));
+        @include transition(all, .2s, ease-in-out);
+    }
+
+    @include breakpoint($max768) {
+        .views-row
+        {
+            width: 49%;
+        }
+        .views-row-odd
+        {
+            margin-right: 0;
+            margin-left: 0;
+        }
+        .views-row-even
+        {
+            margin-right: 0;
+            margin-left: 2%;
+        }
+    }
+        @include breakpoint($max568)
+    {
+        .views-row
+        {
+            width: 100%;
+            margin-left: 0;
+        }
+    }
+}

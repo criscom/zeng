@@ -1,0 +1,26 @@
+
+.view-partner-landing-page
+{
+    @include boxes;
+    .views-row
+    {
+        @include breakpoint($tablet)
+        {
+            min-height: 300px;
+        }
+        @include breakpoint($tablet) {
+            // min-height: 270px;
+        }
+    }
+    h2
+    {
+        @extend %header-boxes;
+    }
+    p
+    {
+        a
+        {
+            @include hyphens;
+        }
+    }
+}
