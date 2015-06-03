@@ -120,8 +120,10 @@ $white-space-rem: 1.5rem;
 
 $yellow: rgb(255,255,0);
 $red: rgb(255,0,0);
-$black: #231f20;
-$box: rgb(221,221,221); // #dddddd;
+$logo: rgb(34,68,85); // #224455;
+$black: rgb(64,64,64); // #404040 // #231f20;
+$box: rgb(187,187,187); //#bbbbbb; // rgb(212,212,212); // #d4d4d4;
+$border: rgb(153,153,153); //#999999;
 $font-color: $black;
 $label-color: $font-color;
 $header-color: transparent;
@@ -140,6 +142,7 @@ $xlarge: min-width 1200px;
 $xxlarge: min-width 1500px;
 
 // Helper max
+$max1199: max-width 1199px;
 $max979: max-width 979px; // smallscreens
 $max768: max-width 768px; // mobilescreens
 $max568: max-width 568px;

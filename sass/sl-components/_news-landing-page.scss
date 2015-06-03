@@ -1,0 +1,22 @@
+.view-news-landing-page {
+    .views-row {
+        @extend %divider-node;
+    }
+}
+
+
+h2.news-title {
+    margin-bottom: 0;
+    font-size: 28px;
+    font-size: 1.75rem;
+}
+
+.views-field-created {
+    span {
+        font-style: italic;
+        // font-size: 14px;
+        // font-size: 0.875rem;
+    }
+    margin-bottom: 16px;
+    margin-bottom: 1rem;
+}

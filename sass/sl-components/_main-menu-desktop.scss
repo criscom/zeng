@@ -17,8 +17,18 @@
 
 // Style nice menus
 
+.main-navigation {
+    text-align: center;
+}
+
 ul.nice-menu
 {
+    border-top: 1px solid $border;
+    border-bottom: 1px solid $border;
+    height: 44px;
+    height: 2.75rem;
+    display: table;
+    width: 100%;
     .nolink {
         display: block;
         padding: 0.3em 5px 0.3em 5px;
@@ -28,76 +38,94 @@ ul.nice-menu
     }
 }
 
+ul.nice-menu>li { // only for the main menu items
+    display: inline-block;
+    float: none;
+}
+
 ul.nice-menu li
 {
     border: 0;
     background-color: transparent;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    @extend %single-transition;
+    &:hover {
+        background-color: $box;
+        }
     // background-color: white;
-    padding-top: 8px;
-    padding-bottom: 12px;
-    @include breakpoint($range769-961) {
-        padding-bottom: 14px;
-    }
-    @include breakpoint($range769-876) {
-        padding-top: 12px;
-        padding-right: 0.75rem;
+    // padding-top: 8px;
+    // padding-bottom: 12px;
+    // @include breakpoint($range769-961) {
+    //     padding-bottom: 14px;
+    // }
+    // @include breakpoint($range769-876) {
+    //     padding-top: 12px;
+    //     padding-right: 0.75rem;
 
-    }
+    // }
 
-    @include breakpoint($desktop)
-    {
-        padding-right: 8px;
-        padding-right: .5rem;
-        padding-left: 8px;
-        padding-left: .5rem;
-    }
-    @include breakpoint($range769-876) {
-        padding-right: 4px;
-        padding-right: .25rem;
-        padding-left: 4px;
-        padding-left: .25rem;
-    }
+    // @include breakpoint($desktop)
+    // {
+    //     padding-right: 8px;
+    //     padding-right: .5rem;
+    //     padding-left: 8px;
+    //     padding-left: .5rem;
+    // }
+    // @include breakpoint($range769-876) {
+    //     padding-right: 4px;
+    //     padding-right: .25rem;
+    //     padding-left: 4px;
+    //     padding-left: .25rem;
+    // }
 
     a
     {
         text-decoration: none;
-        // text-transform: uppercase;
-
+        @extend %single-transition;
         @extend %base-font-size;
-        @include link-colors($normal: $black, $hover: $red!important);
+        @include link-colors($normal: $black, $hover: white!important);
         @extend %base-font-weight;
+        text-transform: uppercase;
+        // @include single-text-shadow;
+        // padding: 0;
         // padding-right: 0 !important;
-        @include breakpoint($range769-961) {
-            font-size: 16px;
-            font-size: 1rem;
-        }
-        @include breakpoint($range769-876) {
-            font-size: 14px;
-            font-size: 0.875rem;
-        }
+        // @include breakpoint($range769-961) {
+        //     font-size: 16px;
+        //     font-size: 1rem;
+        // }
+        // @include breakpoint($range769-876) {
+        //     font-size: 14px;
+        //     font-size: 0.875rem;
+        // }
     }
     &.active-trail {
-        background-color: white !important;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
-        a
-            {
-            color: #000000;
-            font-weight: 700;
-            &:hover {
-                color: #000000 !important;
+        background-color: $box;
+        >a {
+            color: white;
+            &.active {
+                color: white;
             }
+            &:hover {
+                // color: #000000 !important;
+                }
             }
     }
 }
 
 ul.nice-menu-down
 {
+
     li.menuparent,
     li.menuparent:hover
     {
-        background-color: transparent;
-        background-image: none;
+        background: none;
+    }
+    li.menuparent:hover,
+    li.menuparent.active-trail {
+        background-color: $box;
     }
 }
 
@@ -105,18 +133,25 @@ ul.nice-menu-down
 
 ul.nice-menu ul
 {
-    top: 50px;
-    top: 3.125rem;
-
+    top: 43px;
+    top: 2.6875rem;
+    background: lighten($box, 20%);
+    // border: 1px solid $border;
     border-top: 0;
-    background-color: white;
+    @include border-radius(0);
     li
     {
+        text-align: center;
+        padding-right: 0;
         a
         {
             text-decoration: none;
-
+            display: block;
+            @include single-text-shadow;
             @include link-colors($normal: black, $hover: $red, $visited: black, $active: $red);
+            &:hover {
+                background: $box;
+            }
         }
     }
 }

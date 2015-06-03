@@ -36,6 +36,13 @@
     font-weight: 700;
 }
 
+%header {
+    font-size: 32px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    @include single-text-shadow;
+}
+
 %divider { // creates a dark gray line to divide sections in a background area
     padding-bottom: 16px;
     padding-bottom: 1rem;
@@ -51,5 +58,10 @@
 %white-space {
     margin-bottom: $white-space-px;
     margin-bottom: $white-space-rem;
+}
+
+// From SASS and Compass for Webdesigners _placeholder.scss line 4ff
+%single-transition {
+  @include single-transition(all, .3s, ease, 0s);
 }
 

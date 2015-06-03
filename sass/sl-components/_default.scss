@@ -4,5 +4,24 @@
 */
 
 .main h1{
-    text-transform: uppercase;
+    // text-transform: uppercase;
+    @extend %header;
+}
+
+.field-name-title-field,
+.field-name-title {
+    h2 {
+        @extend %header;
+    }
+}
+
+.alert-info {
+    color: $logo;
+    background-color: $box;
+    border-color: $border;
+}
+
+.fa-angle-right {
+    margin-left: 4px;
+    margin-left: 0.25rem;
 }

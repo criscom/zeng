@@ -34,12 +34,14 @@ div.download-file a
 
 .inline-link
 {
-    @include link-colors($normal: $black, $hover: $brand-primary, $visited: lighten($black, 10%));
+    @include link-colors($normal: $logo, $hover: lighten($logo, 10%), $visited: lighten($black, 10%));
     text-decoration: underline;
     @extend %base-font-weight;
 }
 
+h2 a,
 div p a,
+div a,
 .wohnungsdetails-link a,
 li a,
 .link a,
@@ -51,6 +53,13 @@ li a,
     }
 }
 
+h2.news-title a {
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 // header font weight
 
 h1 {
@@ -59,14 +68,14 @@ h1 {
 
 // hover color for link-less headers and titles
 
-.page-panels h1, // general header of panels page
-.panel-display .panle-panel h2, // header of a panel
-h1.object-title, // wohnung content type
-.page-title, // wohnung content list-style-type
-.node-wohnung .group-top h2, // wohnung content type
-.header-hover // general declaration
-{
-    &:hover {
-        color: $brand-primary;
-    }
-}
+// .page-panels h1, // general header of panels page
+// .panel-display .panle-panel h2, // header of a panel
+// h1.object-title, // wohnung content type
+// .page-title, // wohnung content list-style-type
+// .node-wohnung .group-top h2, // wohnung content type
+// .header-hover // general declaration
+// {
+//     &:hover {
+//         color: $brand-primary;
+//     }
+// }
