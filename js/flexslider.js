@@ -17,6 +17,7 @@ $(window).load(function() {
     slideshowSpeed: 7000,
     animationSpeed: 1200,
     controlNav: true // hides bullets below slideshow
+    
   });
     $('.flexslider-events').flexslider({ // initiates flexslider for events
     animation: "fade",

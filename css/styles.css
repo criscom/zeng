@@ -3574,25 +3574,37 @@ footer .block p a {
 ** /front
 **
 */
-/* line 13, ../sass/sl-components/_front.scss */
+/* line 14, ../sass/sl-components/_front.scss */
 .front .flexslider, .front .flexslider-events {
-  background: transparent;
   margin-top: 48px;
   margin-top: 3rem;
   margin-bottom: 72px;
   margin-bottom: 4.5rem;
+  background: transparent;
 }
-/* line 19, ../sass/sl-components/_front.scss */
+/* line 22, ../sass/sl-components/_front.scss */
 .front .flexslider h2, .front .flexslider-events h2 {
   margin-bottom: 24px !important;
   margin-bottom: 1.5rem !important;
   text-align: center;
 }
-/* line 24, ../sass/sl-components/_front.scss */
+/* line 29, ../sass/sl-components/_front.scss */
 .front .flexslider img, .front .flexslider-events img {
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
+}
+@media (max-width: 568px) {
+  /* line 36, ../sass/sl-components/_front.scss */
+  .front .flex-direction-nav {
+    display: none;
+  }
+}
+
+/* line 47, ../sass/sl-components/_front.scss */
+.flexslider .slides > li:not(:first-child), .flexslider-events .slides > li:not(:first-child) {
+  display: none;
+  -webkit-backface-visibility: hidden;
 }
 
 /* CSS code for the HEADER TEXT

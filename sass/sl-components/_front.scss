@@ -9,22 +9,58 @@
 
 // flexslider
 
-.front {
-    .flexslider {
-        background: transparent;
+.front
+{
+    .flexslider
+    {
         margin-top: 48px;
         margin-top: 3rem;
         margin-bottom: 72px;
         margin-bottom: 4.5rem;
-        h2 {
+
+        background: transparent;
+        h2
+        {
             margin-bottom: 24px !important;
             margin-bottom: 1.5rem !important;
+
             text-align: center;
         }
-        img {
+        img
+        {
             @include border-radius(4px);
             // margin-bottom: 24px !important;
             // margin-bottom: 1.5rem !important;
         }
     }
+    .flex-direction-nav { // hide navigation on mobile devices
+        @include breakpoint($max568) {
+            display: none;
+        }
+    }
 }
+
+
+// flexslider takes a long time to load
+// fix from: https://stackoverflow.com/questions/12717097/flexslider-slow-image-load/12727900#12727900
+
+.flexslider .slides > li:not(:first-child) {display: none; -webkit-backface-visibility: hidden;}
+
+// .front
+// {
+//     .flexslider .slides
+//     {
+//         > li:first-child
+//         {
+//             display: block;
+
+//             -webkit-backface-visibility: visible;
+//         }
+//         > li
+//         {
+//             display: none;
+
+//             -webkit-backface-visibility: hidden;
+//         }
+//     }
+// }
