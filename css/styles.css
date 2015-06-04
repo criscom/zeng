@@ -3594,17 +3594,18 @@ footer .block p a {
   -webkit-border-radius: 4px;
   border-radius: 4px;
 }
-@media (max-width: 568px) {
-  /* line 36, ../sass/sl-components/_front.scss */
-  .front .flex-direction-nav {
-    display: none;
-  }
-}
 
-/* line 47, ../sass/sl-components/_front.scss */
+/* line 42, ../sass/sl-components/_front.scss */
 .flexslider .slides > li:not(:first-child), .flexslider-events .slides > li:not(:first-child) {
   display: none;
   -webkit-backface-visibility: hidden;
+}
+
+@media (max-width: 568px) {
+  /* line 49, ../sass/sl-components/_front.scss */
+  .flex-direction-nav {
+    display: none;
+  }
 }
 
 /* CSS code for the HEADER TEXT
