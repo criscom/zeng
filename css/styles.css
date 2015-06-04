@@ -3382,14 +3382,14 @@ ul.language-switcher-locale-url li a {
 }
 
 /* line 64, ../sass/library/_placeholders.scss */
-.view-news-landing-page .views-row, .center-wrapper.two .node {
+.view-news-landing-page .views-row, .center-wrapper.two .node, .view-profil .views-row {
   padding-bottom: 16px;
   padding-bottom: 1rem;
   border-bottom: 1px solid #777777;
 }
 
 /* line 73, ../sass/library/_placeholders.scss */
-.view-news-landing-page .views-row, .center-wrapper.two .node {
+.view-news-landing-page .views-row, .center-wrapper.two .node, .view-profil .views-row {
   margin-bottom: 32px;
   margin-bottom: 2rem;
 }
@@ -4250,6 +4250,11 @@ h2.news-title {
   -ms-hyphens: auto;
   -o-hyphens: auto;
   hyphens: auto;
+}
+
+/* line 3, ../sass/sl-components/_profil-landing-page.scss */
+.page-node-71 .main-content > .node-page > div.field-name-title > h2 {
+  display: none;
 }
 
 /* line 3, ../sass/sl-components/_projekte-detail.scss */

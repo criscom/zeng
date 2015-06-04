@@ -1,0 +1,13 @@
+.page-node-71 {
+    .main-content > .node-page {
+        > div.field-name-title > h2 { // Hide "Profil" heading from node view
+            display: none;
+        }
+    }
+}
+
+.view-profil {
+    .views-row {
+        @extend %divider-node;
+    }
+}
