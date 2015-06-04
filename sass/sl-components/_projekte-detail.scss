@@ -1,14 +1,25 @@
 
 .node-projekt.view-mode-full {
     .group-left {
-        width: 40% ;
+        width: 40%;
+        margin-right: 2%;
     }
     .group-right {
-        width: 60% ;
+        width: 58% ;
+    }
+    .wrapper {
+        padding: 6px 0;
+        padding: .375rem 0;
+    }
+    .wrapper.beschreibung {
+        p:first-child {
+            margin-top: 0;
+        }
     }
     @include breakpoint($max630) {
         .group-left,
         .group-right {
+            margin: 0;
             float: none;
             width: 100%;
         }

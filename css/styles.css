@@ -3544,16 +3544,24 @@ footer {
   background-color: #eeeeee;
 }
 /* line 16, ../sass/sl-components/_footer.scss */
+footer span.group-right {
+  float: right;
+  font-size: 14px;
+  font-size: 0.875rem;
+  padding-top: 2px;
+  padding-top: 0.125rem;
+}
+/* line 23, ../sass/sl-components/_footer.scss */
 footer .block {
   margin: 0;
   padding: 4px 0;
   padding: .25rem 0;
 }
-/* line 23, ../sass/sl-components/_footer.scss */
+/* line 30, ../sass/sl-components/_footer.scss */
 footer .block p {
   margin: 0;
 }
-/* line 26, ../sass/sl-components/_footer.scss */
+/* line 33, ../sass/sl-components/_footer.scss */
 footer .block p a {
   font-weight: 300 !important;
   text-decoration: none !important;
@@ -3797,6 +3805,52 @@ header.header {
   border: 0;
 }
 
+@media (min-width: 569px) {
+  /* line 5, ../sass/sl-components/_kontakt.scss */
+  .page-node-73 .node-page,
+  .page-node-73 .block-webform {
+    width: 49%;
+  }
+  /* line 10, ../sass/sl-components/_kontakt.scss */
+  .page-node-73 .node-page {
+    float: left;
+    margin-right: 1%;
+  }
+  /* line 16, ../sass/sl-components/_kontakt.scss */
+  .page-node-73 .block-webform {
+    float: right;
+    margin-top: 96px;
+    margin-top: 6rem;
+    margin-left: 1%;
+  }
+  /* line 23, ../sass/sl-components/_kontakt.scss */
+  .page-node-73 .block-webform h2 {
+    line-height: 24px;
+    line-height: 1.5rem;
+    margin-bottom: 26px;
+    margin-bottom: 1.625rem;
+  }
+}
+/* line 35, ../sass/sl-components/_kontakt.scss */
+.page-node-73 .block-webform h2 {
+  font-size: 19px;
+  font-size: 1.17rem;
+}
+/* line 40, ../sass/sl-components/_kontakt.scss */
+.page-node-73 .block-webform label {
+  font-weight: 300;
+}
+/* line 44, ../sass/sl-components/_kontakt.scss */
+.page-node-73 .block-webform .button-primary {
+  border-color: #999999;
+  background-color: #bbbbbb;
+}
+/* line 48, ../sass/sl-components/_kontakt.scss */
+.page-node-73 .block-webform .button-primary:hover {
+  border-color: #666666;
+  background-color: #888888;
+}
+
 /* CSS code for the language switcher
 ** added by criscom
 ** on all pages
@@ -4009,7 +4063,7 @@ ul.nice-menu ul li a:hover {
 ** max-width: 767px
 ** 
 */
-@media (max-width: 768px) {
+@media (max-width: 818px) {
   /* line 11, ../sass/sl-components/_main-menu-mobile.scss */
   .main-navigation {
     width: 100%;
@@ -4017,8 +4071,8 @@ ul.nice-menu ul li a:hover {
 
   /* line 16, ../sass/sl-components/_main-menu-mobile.scss */
   .responsive-menus.responsified span.toggler, .responsive-menus.responsified .responsive-menus-simple {
-    background: #404040;
-    box-shadow: 2px 2px 2px #272727;
+    background: #bbbbbb;
+    box-shadow: 2px 2px 2px #a2a2a2;
     color: white;
   }
   /* line 20, ../sass/sl-components/_main-menu-mobile.scss */
@@ -4031,21 +4085,92 @@ ul.nice-menu ul li a:hover {
     display: none;
   }
 }
-/* line 8, ../sass/sl-components/_news-landing-page.scss */
+/* line 3, ../sass/sl-components/_news-detail.scss */
+.node-article.view-mode-full .field-name-title h2 {
+  margin-bottom: 0;
+}
+/* line 7, ../sass/sl-components/_news-detail.scss */
+.node-article.view-mode-full .beitragsdatum {
+  margin-bottom: 16px;
+  margin-bottom: 1rem;
+}
+/* line 13, ../sass/sl-components/_news-detail.scss */
+.node-article.view-mode-full .beitragsdatum span {
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* in order to make the glyphicons for file downloads work, I have hacked the 
+download_file.formatter.inc line 255 file in all/modules/download_file
+
+return '<span class="detail">' . t($format, array('!extension' => $extension, '!file_size' => $file_size)). '</span>'. '<span class="glyphicon glyphicon-cloud-download"></span>';
+
+adding
+. '<span class="glyphicon glyphicon-cloud-download"></span>';
+*/
+/* line 30, ../sass/sl-components/_news-detail.scss */
+ul.download-file {
+  padding-left: 0;
+  list-style: none;
+  margin-top: 12px;
+  margin-top: 0.75rem;
+}
+/* line 35, ../sass/sl-components/_news-detail.scss */
+ul.download-file li {
+  padding-top: 8px;
+}
+/* line 38, ../sass/sl-components/_news-detail.scss */
+ul.download-file .glyphicon {
+  float: left;
+  padding-top: 2px;
+  padding-right: 6px;
+  padding-right: .375rem;
+}
+
+/* line 2, ../sass/sl-components/_news-landing-page.scss */
+.view-news-landing-page .views-row {
+  clear: both;
+  min-height: 350px;
+}
+
+/* line 10, ../sass/sl-components/_news-landing-page.scss */
 h2.news-title {
   margin-bottom: 0;
   font-size: 28px;
   font-size: 1.75rem;
+  font-weight: 300;
+}
+/* line 15, ../sass/sl-components/_news-landing-page.scss */
+.views-row-1 h2.news-title {
+  margin-top: 0;
 }
 
-/* line 14, ../sass/sl-components/_news-landing-page.scss */
+/* line 20, ../sass/sl-components/_news-landing-page.scss */
 .views-field-created {
   margin-bottom: 16px;
   margin-bottom: 1rem;
 }
-/* line 15, ../sass/sl-components/_news-landing-page.scss */
+/* line 21, ../sass/sl-components/_news-landing-page.scss */
 .views-field-created span {
   font-style: italic;
+}
+
+/* line 30, ../sass/sl-components/_news-landing-page.scss */
+.news-landing-image {
+  float: left;
+  margin: 0 16px 16px 0;
+  margin: 0 1rem 1rem 0;
+}
+/* line 6, ../sass/library/_clearfix.scss */
+.news-landing-image:before {
+  content: '';
+  display: table;
+}
+/* line 11, ../sass/library/_clearfix.scss */
+.news-landing-image:after {
+  content: '';
+  display: table;
+  clear: both;
 }
 
 /* CSS code for panel page one col two rows
@@ -4252,23 +4377,29 @@ h2.news-title {
   hyphens: auto;
 }
 
-/* line 3, ../sass/sl-components/_profil-landing-page.scss */
-.page-node-71 .main-content > .node-page > div.field-name-title > h2 {
-  display: none;
-}
-
 /* line 3, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .group-left {
   width: 40%;
+  margin-right: 2%;
 }
-/* line 6, ../sass/sl-components/_projekte-detail.scss */
+/* line 7, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .group-right {
-  width: 60%;
+  width: 58%;
+}
+/* line 10, ../sass/sl-components/_projekte-detail.scss */
+.node-projekt.view-mode-full .wrapper {
+  padding: 6px 0;
+  padding: .375rem 0;
+}
+/* line 15, ../sass/sl-components/_projekte-detail.scss */
+.node-projekt.view-mode-full .wrapper.beschreibung p:first-child {
+  margin-top: 0;
 }
 @media (max-width: 630px) {
-  /* line 10, ../sass/sl-components/_projekte-detail.scss */
+  /* line 20, ../sass/sl-components/_projekte-detail.scss */
   .node-projekt.view-mode-full .group-left,
   .node-projekt.view-mode-full .group-right {
+    margin: 0;
     float: none;
     width: 100%;
   }

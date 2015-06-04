@@ -127,7 +127,7 @@ $border: rgb(153,153,153); //#999999;
 $font-color: $black;
 $label-color: $font-color;
 $header-color: transparent;
-$menu-color: $black;
+$menu-color: $box;
 
 //
 // Breakpoints
@@ -144,6 +144,7 @@ $xxlarge: min-width 1500px;
 // Helper max
 $max1199: max-width 1199px;
 $max979: max-width 979px; // smallscreens
+$max818: max-width 818px; // responsive menu
 $max768: max-width 768px; // mobilescreens
 $max630: max-width 630px;
 $max568: max-width 568px;

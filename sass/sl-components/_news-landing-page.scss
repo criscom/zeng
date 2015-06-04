@@ -1,6 +1,8 @@
 .view-news-landing-page {
     .views-row {
         @extend %divider-node;
+        clear: both;
+        min-height: 350px;
     }
 }
 
@@ -9,6 +11,10 @@ h2.news-title {
     margin-bottom: 0;
     font-size: 28px;
     font-size: 1.75rem;
+    font-weight: 300;
+    .views-row-1 & {
+        margin-top: 0;
+    }
 }
 
 .views-field-created {
@@ -19,4 +25,11 @@ h2.news-title {
     }
     margin-bottom: 16px;
     margin-bottom: 1rem;
+}
+
+.news-landing-image {
+    float: left;
+    margin: 0 16px 16px 0;
+    margin: 0 1rem 1rem 0;
+    @include clearfix;
 }

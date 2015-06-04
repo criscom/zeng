@@ -1,0 +1,44 @@
+.node-article.view-mode-full
+{
+    .field-name-title h2
+    {
+        margin-bottom: 0;
+    }
+    .beitragsdatum
+    {
+        // font-size: 14px;
+        // font-size: 0.875rem;
+        margin-bottom: 16px;
+        margin-bottom: 1rem;
+        span
+        {
+            font-weight: 300;
+            font-style: italic;
+        }
+    }
+}
+
+/* in order to make the glyphicons for file downloads work, I have hacked the 
+download_file.formatter.inc line 255 file in all/modules/download_file
+
+return '<span class="detail">' . t($format, array('!extension' => $extension, '!file_size' => $file_size)). '</span>'. '<span class="glyphicon glyphicon-cloud-download"></span>';
+
+adding
+. '<span class="glyphicon glyphicon-cloud-download"></span>';
+*/
+
+ul.download-file {
+    padding-left: 0;
+    list-style: none;
+    margin-top: 12px;
+    margin-top: 0.75rem;
+    li {
+        padding-top: 8px;
+    }
+    .glyphicon {
+        float: left;
+        padding-top: 2px;
+        padding-right: 6px;
+        padding-right: .375rem;
+    }
+}

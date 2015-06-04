@@ -13,6 +13,13 @@ footer
     border-top: 1px solid $border;
     border-bottom: 1px solid $border;
     background-color: lighten($box, 20%);
+    span.group-right {
+        float: right;
+        font-size: 14px;
+        font-size: 0.875rem;
+        padding-top: 2px;
+        padding-top: 0.125rem;
+    }
     .block
     {
         // margin: 4px 0;
