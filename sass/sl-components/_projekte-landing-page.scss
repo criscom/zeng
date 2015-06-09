@@ -40,6 +40,20 @@ ul.isotope-filters {
     img {
         width: 270px;
     }
+    @include breakpoint($range1024-1024) {
+        width: 314px;
+        height: 292px;
+        img {
+            width: 314px;
+        }
+    }
+    @include breakpoint($range768-768) {
+        width: 229px;
+        height: 220px;
+        img {
+            width: 229px;
+        }
+    }
 }
 
 h2.projekt-titel {

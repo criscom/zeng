@@ -21,7 +21,12 @@
         @include box-shadow(0 1px 3px rgba(0, 0, 0, .055));
         @include transition(all, .2s, ease-in-out);
     }
-
+    @include breakpoint($range1024-1024) {
+        .views-row
+        {
+            width: 314px;
+        }
+    }
     @include breakpoint($max768) {
         .views-row
         {
