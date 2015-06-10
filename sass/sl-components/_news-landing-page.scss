@@ -3,6 +3,9 @@
         @extend %divider-node;
         clear: both;
         min-height: 350px;
+        img {
+            @include border-radius(4px);
+        }
     }
 }
 

@@ -3607,6 +3607,10 @@ footer .block p a {
     display: none;
   }
 }
+/* line 57, ../sass/sl-components/_front.scss */
+.flex-direction-nav a:hover {
+  color: white;
+}
 
 /* CSS code for the HEADER TEXT
 ** added by criscom
@@ -4112,6 +4116,12 @@ ul.nice-menu ul li a:hover {
   font-weight: 300;
   font-style: italic;
 }
+/* line 20, ../sass/sl-components/_news-detail.scss */
+.node-article.view-mode-full .field-name-field-image img {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
 
 /* in order to make the glyphicons for file downloads work, I have hacked the 
 download_file.formatter.inc line 255 file in all/modules/download_file
@@ -4121,18 +4131,18 @@ return '<span class="detail">' . t($format, array('!extension' => $extension, '!
 adding
 . '<span class="glyphicon glyphicon-cloud-download"></span>';
 */
-/* line 30, ../sass/sl-components/_news-detail.scss */
+/* line 35, ../sass/sl-components/_news-detail.scss */
 ul.download-file {
   padding-left: 0;
   list-style: none;
   margin-top: 12px;
   margin-top: 0.75rem;
 }
-/* line 35, ../sass/sl-components/_news-detail.scss */
+/* line 40, ../sass/sl-components/_news-detail.scss */
 ul.download-file li {
   padding-top: 8px;
 }
-/* line 38, ../sass/sl-components/_news-detail.scss */
+/* line 43, ../sass/sl-components/_news-detail.scss */
 ul.download-file .glyphicon {
   float: left;
   padding-top: 2px;
@@ -4145,30 +4155,36 @@ ul.download-file .glyphicon {
   clear: both;
   min-height: 350px;
 }
+/* line 6, ../sass/sl-components/_news-landing-page.scss */
+.view-news-landing-page .views-row img {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
 
-/* line 10, ../sass/sl-components/_news-landing-page.scss */
+/* line 13, ../sass/sl-components/_news-landing-page.scss */
 h2.news-title {
   margin-bottom: 0;
   font-size: 28px;
   font-size: 1.75rem;
   font-weight: 300;
 }
-/* line 15, ../sass/sl-components/_news-landing-page.scss */
+/* line 18, ../sass/sl-components/_news-landing-page.scss */
 .views-row-1 h2.news-title {
   margin-top: 0;
 }
 
-/* line 20, ../sass/sl-components/_news-landing-page.scss */
+/* line 23, ../sass/sl-components/_news-landing-page.scss */
 .views-field-created {
   margin-bottom: 16px;
   margin-bottom: 1rem;
 }
-/* line 21, ../sass/sl-components/_news-landing-page.scss */
+/* line 24, ../sass/sl-components/_news-landing-page.scss */
 .views-field-created span {
   font-style: italic;
 }
 
-/* line 30, ../sass/sl-components/_news-landing-page.scss */
+/* line 33, ../sass/sl-components/_news-landing-page.scss */
 .news-landing-image {
   float: left;
   margin: 0 16px 16px 0;
@@ -4414,8 +4430,12 @@ h2.news-title {
 .node-projekt.view-mode-full .wrapper.beschreibung p:first-child {
   margin-top: 0;
 }
+/* line 18, ../sass/sl-components/_projekte-detail.scss */
+.node-projekt.view-mode-full .wrapper.beschreibung p {
+  text-align: justify;
+}
 @media (max-width: 630px) {
-  /* line 20, ../sass/sl-components/_projekte-detail.scss */
+  /* line 23, ../sass/sl-components/_projekte-detail.scss */
   .node-projekt.view-mode-full .group-left,
   .node-projekt.view-mode-full .group-right {
     margin: 0;
@@ -4588,20 +4608,27 @@ h2.projekt-titel a:active {
 @media (min-width: 769px) {
   /* line 5, ../sass/sl-components/_team.scss */
   .view-team-landing-page .views-row {
-    min-height: 334px;
+    min-height: 356px;
+    min-height: 22.25rem;
   }
 }
-/* line 14, ../sass/sl-components/_team.scss */
+/* line 15, ../sass/sl-components/_team.scss */
 .view-team-landing-page .field-name-title h2 {
   text-transform: none !important;
   text-shadow: none !important;
 }
-/* line 23, ../sass/sl-components/_team.scss */
+/* line 24, ../sass/sl-components/_team.scss */
 .view-team-landing-page .field-name-field-bild-team {
   margin-bottom: 12px;
   margin-bottom: .75rem;
 }
 /* line 28, ../sass/sl-components/_team.scss */
+.view-team-landing-page .field-name-field-bild-team img {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+/* line 32, ../sass/sl-components/_team.scss */
 .view-team-landing-page .field-name-field-informationen p,
 .view-team-landing-page .wrapper > span {
   font-size: 16px;
@@ -4609,7 +4636,7 @@ h2.projekt-titel a:active {
 }
 
 @media (max-width: 568px) {
-  /* line 42, ../sass/sl-components/_team.scss */
+  /* line 46, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .group-left,
   .node-team.view-mode-full .group-right {
     float: none;
@@ -4617,34 +4644,34 @@ h2.projekt-titel a:active {
   }
 }
 @media (min-width: 569px) {
-  /* line 52, ../sass/sl-components/_team.scss */
+  /* line 56, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .group-left {
     float: left;
     width: 30%;
   }
-  /* line 58, ../sass/sl-components/_team.scss */
+  /* line 62, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .group-right {
     float: left;
     width: 67%;
     margin-left: 3%;
   }
-  /* line 67, ../sass/sl-components/_team.scss */
+  /* line 71, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full .field-name-body p a {
     text-transform: uppercase;
   }
 }
-/* line 77, ../sass/sl-components/_team.scss */
+/* line 81, ../sass/sl-components/_team.scss */
 .node-team.view-mode-full .group-left .field-name-field-bild-team img {
   display: block;
   margin-bottom: 12px;
   margin-bottom: .75rem;
 }
-/* line 86, ../sass/sl-components/_team.scss */
+/* line 90, ../sass/sl-components/_team.scss */
 .node-team.view-mode-full .field-name-title h2 {
   margin-top: 0;
 }
 @media (max-width: 767px) {
-  /* line 90, ../sass/sl-components/_team.scss */
+  /* line 94, ../sass/sl-components/_team.scss */
   .node-team.view-mode-full iframe {
     width: 100%;
   }

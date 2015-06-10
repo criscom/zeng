@@ -4,7 +4,8 @@
     @include breakpoint($desktop) {
         .views-row
         {
-            min-height: 334px;
+            min-height: 356px;
+            min-height: 22.25rem;
         }
     }
 
@@ -24,6 +25,9 @@
     {
         margin-bottom: 12px;
         margin-bottom: .75rem;
+        img {
+            @include border-radius(4px);
+        }
     }
     .field-name-field-informationen p,
     .wrapper > span
