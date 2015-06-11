@@ -5,16 +5,17 @@ ul.isotope-filters {
         margin-top: 0.75rem;
     }
     li {
-        @include breakpoint($xlarge){
-                padding-right: 3px;
-                padding-right: 0.1875rem;
-            }
+        // @include breakpoint($xlarge){
+        //         padding-right: 3px;
+        //         padding-right: 0.1875rem;
+        // }
     }
 }
 
 .isotope-button {
     border: 1px solid lighten($border, 10%);
     background-color: $box;
+    padding: 0.5em 1.2em;
     @include background-image(linear-gradient(lighten($box, 30%), lighten($box, 10%)));
     @include breakpoint($max1199) {
         margin-top: 12px;

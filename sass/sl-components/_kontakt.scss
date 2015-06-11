@@ -1,5 +1,8 @@
 .page-node-73
 {
+    h3.office {
+        font-weight: 300;
+    }
     @include breakpoint($tablet)
     {
         .node-page,

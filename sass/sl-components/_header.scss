@@ -9,8 +9,8 @@
 header.header {
     background-color: $header-color;
     @include border-radius(4px);
-    padding: 24px 0 0 0;
-    padding: 1.5rem 0 0 0;
+    padding: 28px 0 0 0; // 24px;
+    padding: 1.75rem 0 0 0;
     .not-front & {
         padding-bottom: 48px;
         padding-bottom: 3rem;

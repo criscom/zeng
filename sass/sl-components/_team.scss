@@ -1,6 +1,10 @@
 .view-team-landing-page
 {
     @include boxes;
+    .views-row {
+        border: none;
+        box-shadow: none;
+    }
     @include breakpoint($desktop) {
         .views-row
         {
