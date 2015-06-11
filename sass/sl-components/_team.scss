@@ -4,12 +4,27 @@
     .views-row {
         border: none;
         box-shadow: none;
+        text-align: left;
+        width: 372px;
+        width: 23.25rem;
+        @include breakpoint($max1199) {
+            width: 48%;
+            margin: 0 0 32px 0;
+            margin: 0 0 2rem 0;
+            &-odd {
+                clear: left;
+                margin-right: 2%;
+            }
+        }
+        @include breakpoint($max568) {
+            width: 100%;
+        }
     }
     @include breakpoint($desktop) {
         .views-row
         {
-            min-height: 356px;
-            min-height: 22.25rem;
+            min-height: 200px;
+            min-height: 12.5rem;
         }
     }
 
@@ -44,15 +59,20 @@
 // two columns
 .node-team.view-mode-full
 {
-    @include breakpoint($iphone5)
+    @include breakpoint($max568)
     {
-        // 100 % width for screen widths of iphone5 and below
-        .group-left,
+        .group-left
+        {
+            float: left;
+
+            width: 37%;
+        }
         .group-right
         {
-            float: none;
+            float: right;
 
-            width: 100%;
+            width: 60%;
+            margin-left: 3%;
         }
     } // end breakpoint $iphone5
     @include breakpoint($tablet) // 2 columns on iPad and desktop
@@ -61,13 +81,13 @@
         {
             float: left;
 
-            width: 30%;
+            width: 37%;
         }
         .group-right
         {
-            float: left;
+            float: right;
 
-            width: 67%;
+            width: 60%;
             margin-left: 3%;
         }
         .field-name-body p

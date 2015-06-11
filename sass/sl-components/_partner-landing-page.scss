@@ -6,7 +6,7 @@
     {
         @include breakpoint($tablet)
         {
-            min-height: 300px;
+            min-height: 248px;
         }
         @include breakpoint($tablet) {
             // min-height: 270px;

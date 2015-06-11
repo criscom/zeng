@@ -1,5 +1,14 @@
 
 .node-projekt.view-mode-full {
+    .treewalk-prev-next {
+        a {
+            float: none;
+            margin: 0;
+            padding: 10px;
+            display: inline;
+            width: auto;
+        }
+    }
     .group-left {
         width: 40%;
         margin-right: 2%;
