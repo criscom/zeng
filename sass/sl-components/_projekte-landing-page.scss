@@ -60,8 +60,14 @@ ul.isotope-filters {
 h2.projekt-titel {
     text-align: center !important;
     margin: 0;
+        font-size: 19px;
+    font-size:1.2rem;
+    line-height: 32px;
+    line-height: 2rem;
+    display: block;
     a {
     @include link-colors($normal: $black !important, $hover: $red !important, $visited: $black !important, $active: $black !important);
     font-weight: 300;
     }
 }
+

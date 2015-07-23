@@ -3364,7 +3364,7 @@ ul.language-switcher-locale-url li a {
 
 /* line 44, ../sass/library/_placeholders.scss */
 .main h1, .field-name-title-field h2,
-.field-name-title h2 {
+.field-name-title h2, .node-projekt.view-mode-full .group-header h3 {
   font-size: 32px;
   font-size: 2rem;
   font-weight: 300;
@@ -3778,8 +3778,8 @@ header.header {
 /* line 17, ../sass/sl-components/_isotope-filter.scss */
 .isotope-filters li {
   display: inline;
-  padding-right: 6px;
-  padding-right: .375rem;
+  padding-right: 2px;
+  padding-right: .125rem;
 }
 
 /* line 24, ../sass/sl-components/_isotope-filter.scss */
@@ -4452,46 +4452,54 @@ h2.news-title {
   display: inline;
   width: auto;
 }
-/* line 12, ../sass/sl-components/_projekte-detail.scss */
+/* line 13, ../sass/sl-components/_projekte-detail.scss */
+.node-projekt.view-mode-full .group-header h3 {
+  line-height: 48px;
+  line-height: 3rem;
+  margin: 0 0 24px 0;
+  margin: 0 0 1.5rem 0;
+}
+/* line 31, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .group-left {
+  clear: both;
   width: 40%;
   margin-right: 2%;
 }
-/* line 16, ../sass/sl-components/_projekte-detail.scss */
+/* line 36, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .group-right {
   width: 58%;
 }
-/* line 19, ../sass/sl-components/_projekte-detail.scss */
+/* line 39, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .wrapper {
   padding: 6px 0;
   padding: .375rem 0;
 }
-/* line 22, ../sass/sl-components/_projekte-detail.scss */
+/* line 42, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .wrapper .label {
   font-weight: 300;
 }
-/* line 27, ../sass/sl-components/_projekte-detail.scss */
+/* line 47, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .wrapper.beschreibung p:first-child {
   margin-top: 0;
 }
-/* line 30, ../sass/sl-components/_projekte-detail.scss */
+/* line 50, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .wrapper.beschreibung p {
   text-align: justify;
 }
-/* line 34, ../sass/sl-components/_projekte-detail.scss */
+/* line 54, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .flexslider, .node-projekt.view-mode-full .flexslider-events {
   background: transparent;
   box-shadow: none;
   border: none;
 }
-/* line 38, ../sass/sl-components/_projekte-detail.scss */
+/* line 58, ../sass/sl-components/_projekte-detail.scss */
 .node-projekt.view-mode-full .flexslider img, .node-projekt.view-mode-full .flexslider-events img {
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
 }
 @media (max-width: 630px) {
-  /* line 43, ../sass/sl-components/_projekte-detail.scss */
+  /* line 63, ../sass/sl-components/_projekte-detail.scss */
   .node-projekt.view-mode-full .group-left,
   .node-projekt.view-mode-full .group-right {
     margin: 0;
@@ -4588,8 +4596,13 @@ ul.isotope-filters {
 h2.projekt-titel {
   text-align: center !important;
   margin: 0;
+  font-size: 19px;
+  font-size: 1.2rem;
+  line-height: 32px;
+  line-height: 2rem;
+  display: block;
 }
-/* line 63, ../sass/sl-components/_projekte-landing-page.scss */
+/* line 68, ../sass/sl-components/_projekte-landing-page.scss */
 h2.projekt-titel a {
   color: #404040 !important;
   font-weight: 300;
