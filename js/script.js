@@ -28,15 +28,16 @@
 /* START: Isotope settings for the "Busreisen" view let's set the filter to "Busreisen" and assign the class "selected" to the "Busreisen" button */
         // Pre-select second option "Busreisen" in option sets.
 
-/*
-        $('.view-display-id-page_2 .isotope-options .option-set li:first-child a').removeClass('selected');
-        $('.view-display-id-page_2 .isotope-options .option-set li:nth-child(2) a').addClass('selected');
+
+        $('.view-display-id-default .isotope-options .option-set li:first-child a').removeClass('selected');
+        $('.view-display-id-default .isotope-options .option-set li:nth-child(2) a').addClass('selected');
         // for the Busreisen view set the initial filter to "Busreisen"
-        $('.view-display-id-page_2 #isotope-container').isotope({
+        $('.view-display-id-page #isotope-container').isotope({
         // options...
-        filter: '.busreisen'
+        filter: '.umfassende-sanierungen'
         }); 
-*/
+        $('.view-display-id-default .isotope-options .option-set li:first-child').hide(); // Hides "Alle" filter
+
 
 /* END: Isotope settings for the "Busreisen" view */
 
