@@ -1,0 +1,2487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"bordercol",
+				"border-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"f",
+				"font-variant"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"bcol",
+				"background-color"
+			],
+			[
+				"bco",
+				"background-color"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"zen-g",
+				"zen-grid-width"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"tra",
+				"transitionSpeed"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bor",
+				"bordercolor"
+			],
+			[
+				"bo",
+				"bordercolor"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ro",
+				"royalSlider"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"mx",
+				"max-width"
+			],
+			[
+				"mato",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"75",
+				"75rem"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"gray",
+				"grayborder"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"tex-",
+				"text-indent"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bg",
+				"background"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"pre",
+				"pre-wrap"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"slid",
+				"slider-icons"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"the",
+				"thead	Tag"
+			],
+			[
+				"colo",
+				"color2"
+			],
+			[
+				"col",
+				"color2"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/sl-components/_team.scss",
+			"settings":
+			{
+				"buffer_size": 2319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_partner-landing-page.scss",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_projekte-detail.scss",
+			"settings":
+			{
+				"buffer_size": 1651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 1628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/page.tpl.php",
+			"settings":
+			{
+				"buffer_size": 3747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_kontakt.scss",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_main-menu-mobile.scss",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 886,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+			"settings":
+			{
+				"buffer_size": 1437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_front.scss",
+			"settings":
+			{
+				"buffer_size": 1888,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/flexslider.js",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_profil-landing-page.scss",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_isotope-filter.scss",
+			"settings":
+			{
+				"buffer_size": 2461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_news-landing-page.scss",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_news-detail.scss",
+			"settings":
+			{
+				"buffer_size": 1127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_projekte-landing-page.scss",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_header.scss",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/components/_flexslider.scss",
+			"settings":
+			{
+				"buffer_size": 5849,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/sl-components/_main-menu-desktop.scss",
+			"settings":
+			{
+				"buffer_size": 3372,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 131827,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/library/_placeholders.scss",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/library/_lists.scss",
+			"settings":
+			{
+				"buffer_size": 945,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 6090,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/layouts/_responsive.scss",
+			"settings":
+			{
+				"buffer_size": 5310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/layouts/responsive.css",
+			"settings":
+			{
+				"buffer_size": 6699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/library/_boxes.scss",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css.map",
+			"settings":
+			{
+				"buffer_size": 48574,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packcontrolin",
+				"Package Control: Install Package"
+			],
+			[
+				"packconinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 547.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/css",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/css/layouts",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/js",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/components",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/layouts",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/library",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/sl-components",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/templates"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/sl-components/_partner-landing-page.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/.sass-cache/67599a6cec98cbce9ebd31f988f5d47155c9d23c/_projekte-landing-page.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/library/_box_sizing.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/layouts/_responsive.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/components/_flexslider.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/sl-components/_front.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/sl-components/_default.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/sl-components/_footer.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/css/styles.css.map",
+		"/Applications/MAMP/htdocs/drupalmaster2015-zjp.at/sass/sl-components/_main-menu-desktop.scss",
+		"/Applications/MAMP/htdocs/egolife/sites/all/themes/master/sftp-config-alt.json",
+		"/Applications/MAMP/htdocs/egolife/sites/all/themes/master/sftp-config.json",
+		"/Applications/MAMP/htdocs/egolife/sites/all/themes/master/.gitignore",
+		"/Applications/MAMP/htdocs/egolife/sites/all/themes/master/css/styles.css.map",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/AEF2AE54-9A14-4498-A8F8-E88966BC2C26/ifz.css",
+		"/Users/cpotzinger/Documents/Einstern/PROJEKTE/Aktive Projekte/paperwhite-studios pilcrow-studios.com/2014-04-29-antonzimmermann/neue-bestellung-gast.html",
+		"/Users/cpotzinger/Documents/Einstern/PROJEKTE/Aktive Projekte/paperwhite-studios pilcrow-studios.com/2014-04-29-antonzimmermann/neue-bestellung.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_header.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_icons.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/date/date_elements.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/date.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/navicon-leiste.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/libraries/ckeditor/styles.js",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/modules/simpletest/tests/session_test.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/session.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/views-view--news--block-2.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_newsletter-block.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_rsnews.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_menus.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/default.settings copy.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/ds/modules/ds_extras/ds_extras.ds_fields_info.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/entity.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/entity/tests/entity_feature.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/files/Beschreibung TCO-Tool fÃ¼r PCs.doc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/html.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_menus.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_default.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_default.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_init.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/views-view-unformatted--news--block-2.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/nabe_zen_2014.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_init.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/bootstrap/_buttons.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/mixins/_buttons.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_fonts.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_accordion-tools.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/components/_misc.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_node.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/styles.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/bootstrap/_mixins.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/!!!views-view-field--field-slideshow-home-image.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/\nviews-view--tools-links-uebersicht--block-1.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/views-view--tools-links-uebersicht--block-1.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/omega/omega/includes/scripts.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/js/script.js",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/views/help/style-comment-rss.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/layouts/_responsive.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/omega/ohm/sass/ohm.styles.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/libraries/ckeditor/_source/skins/kama/icons.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/ctools/plugins/content_types/page/page_feed_icons.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/advanced_help/help-icon.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/icon-leiste-no-images.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/css/layouts/_responsive.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/979669a4feb82426d885fb35bb10ca783e6b472b/_responsive.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/file.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/modules/filter/tests/filter.url-output.txt",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/fontyourface/fontyourface.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/files/fontyourface/font.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/files/BÃ¼romaterial_naBe_Kernkriterien.doc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/omega/ohm/sass/components/blocks/_nav-bar.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/modules/node/tests/node_access_test.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/modules/node/node.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/index.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/files/js/js_9ShGYTf43nOBrCLvgNig-glXmLXAGHN7r-iNgOJScUs.js",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/advanced_help/help/ini-file.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/modules/simpletest/tests/common_test_info.txt",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/themes/garland/style.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/!settings-D6.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/css/styles.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/files/.htaccess",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/iconleiste.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/omega/ohm/package.json",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/panels/templates/panels-add-content-link.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/ctools/help/plugins-api.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/pager.inc",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/robots.txt",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/panels/plugins/display_renderers/panels_renderer_editor.class.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/themes/seven/reset.css",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/zen/js/respond.js",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_gabersdorf.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-20140901/sites/all/themes/einstern_2014/css/custom.css",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_teamviews-minwidth0-767.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_minwidth480-567.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/20140812diff.txt",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_minwidth980-1199.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/css/custom.css",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_minwidth0-480.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_teamview-minwidth0-767.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_minwidth569-767.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_minwidth569-767px.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_minwidth569-767px",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/html/submit-your-cv-follow-us-inline-buttons.html",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_init.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/html/frontpage-slider-section-consultant-latest-news-newsletter-after-changes.html",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/html/frontpage-slider-section-latest-news2-consultant-before-changes.html",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/custom.scss",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/.gitignore",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/sass/_normalize.scss",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/F892947A-15AB-4BA1-B88B-CF451F6A15BA/sites.php",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/DE6198AE-270F-48E3-9A11-D01349CB3C2A/contactuslandingpage.css",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/D6979A68-F7B0-45CA-9B20-3E4552662C22/template.js",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/html/dropdown-menu.html",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/2D6C81D3-0F91-40F2-BE22-F02570C7F542/views-view--press-frontpage--block-3.tpl.php",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/2D410C2B-F024-4374-957A-2D0E572A7134/script.js",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/FAAA1CAC-CD9B-4DD4-8B7F-E014AD419BD8/views-view--frontpage-consultant-spotlight.tpl.php",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/F61E9D77-D10B-4785-B91E-52D3757651F6/script.js",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/DC9384A4-6ACF-412E-9A89-CB5694F17A25/template.js",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/CF0C1931-3033-466D-8B3C-31CE6626B14B/node--view--press-frontpage.tpl.php",
+		"/Applications/MAMP/htdocs/pedersenandpartners-RELAUNCH-20140715/css/styles.css",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/B1B4DBDD-BDAE-44D3-8EE1-19B095667601/html.tpl.php",
+		"/Applications/MAMP/htdocs/pedersenandpartners-PGE/css/homepage.css",
+		"/Applications/MAMP/htdocs/pedersenandpartners-PGE/config.rb",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/929D738A-9DA4-4CEE-AB03-F02F495F86DE/criscom.css",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/7A5E2F03-BD55-4CCF-ACDA-91E679664281/head.phtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page_2",
+			"<p>-",
+			"li:not(:first-child)",
+			"!important",
+			"boxes",
+			"padding",
+			"80",
+			".isotope-button.selected",
+			"51",
+			"186",
+			"161",
+			"186",
+			"solid $box",
+			"$border",
+			"border",
+			"221",
+			"box",
+			"width: 49%;",
+			"Ausbildung",
+			"Top Jobs",
+			"Ausbildungen",
+			"front",
+			"slider",
+			"front",
+			"form",
+			"1.75rem",
+			"Reinigung",
+			"glyphicons",
+			"Roboto-Black-webfont",
+			"#mc_embed_signup .button",
+			"@include no-bullets;",
+			"<a href=\"",
+			"& {",
+			"Gartenbau",
+			"#navigation",
+			"@extend .navicons-",
+			"navicons-",
+			".icons",
+			"icons",
+			"beschaffungsgruppen",
+			"1px dotted $bordercolor",
+			": $default-border",
+			"false",
+			"border-",
+			"false",
+			"btn-warning-border",
+			"$border",
+			"hover",
+			"button",
+			"brand-warning",
+			"page-node-221",
+			"header",
+			"top",
+			"margin",
+			"solid",
+			"#ccc",
+			"icon",
+			"body-page-node-1",
+			"span",
+			"icon",
+			".png\"",
+			"><img",
+			"Fahrzeuge",
+			"Tiefbau",
+			"inline",
+			"inline-none",
+			"</a><a",
+			"</a></span>",
+			"none\"><a",
+			"</span><span",
+			"http://www.nachhaltigebeschaffung.at",
+			"news",
+			".field-name-body",
+			".block-pedersenandpartners-mobile-navigation",
+			"practice group",
+			"footer",
+			"iframe",
+			"services",
+			"newsletter",
+			"news",
+			"body.node-type-offices .view-office-team-members .views-row",
+			"		// .views-row-3,\n		// .views-row-6,\n		// .views-row-9,\n		// .views-row-12,\n		// .views-row-15 {\n		// 	margin-right: 0;\n		// }",
+			"margin-right: 2%;",
+			"margin-right: 2px;",
+			"margin-right: 2%;",
+			"row",
+			"blocks",
+			".region-sidebar-right",
+			".region-sidebar-left",
+			"news",
+			"image",
+			"read-more",
+			"</label>*",
+			"colspan=\"5\"",
+			"span class=\"xspTextLabel\"",
+			"<td colspan=\"3\"><span role=\"alert\"></span></td>",
+			"class=\"label",
+			"label",
+			"div",
+			"content:",
+			"content: \"-\";",
+			"content: \"",
+			"content: \"-\";",
+			"event",
+			"group-date-time-wrapper-events",
+			"body.page-events-all",
+			".node-article",
+			"news",
+			"top",
+			"btn",
+			".btn ",
+			".btn",
+			".btn-warning",
+			"practice group",
+			"style=\"color:#ff8c00;\"",
+			"</span>",
+			"<span style=\"color:#000080;\">",
+			"<span style=\"font-family:verdana,geneva,sans-serif;\">",
+			"<span style=\"font-size:12px;\">",
+			"news",
+			"</span>",
+			"newsletter",
+			".chrome.win &",
+			"main menu",
+			"city",
+			"team",
+			"button",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$border",
+			"</td><td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/sl-components/_team.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/sl-components/_partner-landing-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/sl-components/_projekte-detail.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1530,
+								1530
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "javascript",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 258.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/page.tpl.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "php",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/sl-components/_kontakt.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "sass/sl-components/_main-menu-mobile.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sass/sl-components/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "sass/sl-components/_front.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "js/flexslider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "javascript",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "sass/sl-components/_profil-landing-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "sass/sl-components/_isotope-filter.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "sass/sl-components/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "sass/sl-components/_news-landing-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "sass/sl-components/_news-detail.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								853,
+								853
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "sass/sl-components/_projekte-landing-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1694,
+								1694
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "sass/sl-components/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 20,
+					"file": "sass/components/_flexslider.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4201,
+								4184
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "sass/sl-components/_main-menu-desktop.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								938,
+								938
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1471,
+								1471
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "css",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/sl-components/_projekte-detail.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "sass/sl-components/_projekte-landing-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 23,
+					"file": "sass/library/_placeholders.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								632,
+								632
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 652.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "sass/library/_lists.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 25,
+					"file": "sass/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5648,
+								5659
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "sass/layouts/_responsive.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "css/layouts/responsive.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "css",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "sass/library/_boxes.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "css/styles.css.map",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "json",
+							"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/Compass/Compass.sublime-build",
+	"project": "zjp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"front",
+				"sass/sl-components/_front.scss"
+			],
+			[
+				"footer",
+				"sass/sl-components/_footer.scss"
+			],
+			[
+				"projland",
+				"sass/sl-components/_projekte-landing-page.scss"
+			],
+			[
+				"proje",
+				".sass-cache/67599a6cec98cbce9ebd31f988f5d47155c9d23c/_projekte-landing-page.scssc"
+			],
+			[
+				"proj",
+				"sass/sl-components/_projekte-detail.scss"
+			],
+			[
+				"news",
+				"sass/sl-components/_news-landing-page.scss"
+			],
+			[
+				"responsive.scss",
+				"sass/layouts/_responsive.scss"
+			],
+			[
+				"",
+				"sass/_variables.scss"
+			],
+			[
+				"respon",
+				"css/layouts/responsive.css"
+			],
+			[
+				"default",
+				"sites/all/themes/nabe_zen_2014/sass/_default.scss"
+			],
+			[
+				"styles.css",
+				"sites/all/themes/nabe_zen_2014/css/styles.css"
+			],
+			[
+				"default.css",
+				"sites/all/themes/nabe_zen_2014/sass/_default.scss"
+			],
+			[
+				"scripts",
+				"sites/all/themes/nabe_zen_2014/js/script.js"
+			],
+			[
+				"_icon.scss",
+				"sites/all/libraries/ckeditor/_source/skins/kama/icons.css"
+			],
+			[
+				"_respo",
+				"sites/all/themes/nabe_zen_2014/sass/layouts/_responsive.scss"
+			],
+			[
+				"_fon",
+				"sites/all/themes/nabe_zen_2014/sass/_fonts.scss"
+			],
+			[
+				"nabe_zen",
+				"sites/all/themes/nabe_zen_2014/nabe_zen_2014.info"
+			],
+			[
+				"styles",
+				"sites/all/themes/nabe_zen_2014/sass/styles.scss"
+			],
+			[
+				"_res",
+				"sites/all/themes/nabe_zen_2014/sass/layouts/_responsive.scss"
+			],
+			[
+				"def",
+				"sass/_default.scss"
+			],
+			[
+				"1200",
+				"sass/_minwidth1200.scss"
+			],
+			[
+				"ini",
+				"sass/_init.scss"
+			],
+			[
+				"de",
+				"sass/_default.scss"
+			],
+			[
+				"cus",
+				"sass/_custom.scss"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"cu",
+				"sass/_custom.scss"
+			],
+			[
+				"in",
+				"sass/_init.scss"
+			],
+			[
+				"s",
+				"private/templates/css/styles.css"
+			],
+			[
+				"i",
+				"private/templates/sass/_init.scss"
+			],
+			[
+				"styl",
+				"private/templates/sass/styles.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
