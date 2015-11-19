@@ -1,9 +1,0 @@
-.sass*
-.sass-cache*
-.sass-cache
-.sass-cache/**
-sftp-config.json
-*.scssc
-css/**
-.gitignore
-zjp.sublime-project
