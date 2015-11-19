@@ -5,3 +5,5 @@
 sftp-config.json
 *.scssc
 css/**
+.gitignore
+zjp.sublime-project
