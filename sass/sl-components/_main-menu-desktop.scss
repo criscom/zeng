@@ -52,7 +52,7 @@ ul.nice-menu li
     padding-top: 5px;
     padding-bottom: 4px;
     @extend %single-transition;
-    &:hover {
+    &:hover, &:focus, &:active {
         background-color: $box;
         >a {
             color: white !important;
@@ -152,7 +152,7 @@ ul.nice-menu ul
             display: block;
             // @include single-text-shadow;
             @include link-colors($normal: $black, $hover: $red, $visited: black, $active: $red);
-            &:hover {
+            &:hover, &:focus, &:active {
                 background: $box;
             }
         }

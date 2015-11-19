@@ -12,7 +12,7 @@ footer
 
     border-top: 1px solid $border;
     border-bottom: 1px solid $border;
-    background-color: lighten($box, 20%);
+    // background-color: lighten($box, 20%); gray background in footer
     span.group-right {
         float: right;
         font-size: 14px;

@@ -1,6 +1,35 @@
 
 .node-projekt.view-mode-full {
+    .treewalk-prev-next {
+        a {
+            float: none;
+            margin: 0;
+            padding: 10px;
+            display: inline;
+            width: auto;
+        }
+    }
+    .group-header {
+        h3 {
+            @extend %header;
+            line-height: 48px;
+            line-height: 3rem;
+            margin: 0 0 24px 0;
+            margin: 0 0 1.5rem 0;
+            // margin-left: 8px;
+            // margin-left: .75rem;
+            &:before {
+                // content: ":";
+                // margin-right: 8px;
+                // margin-right: .75rem;
+            }
+        }
+        h2, h3 {
+            // float: left;
+        }
+    }
     .group-left {
+        clear: both;
         width: 40%;
         margin-right: 2%;
     }
@@ -10,6 +39,9 @@
     .wrapper {
         padding: 6px 0;
         padding: .375rem 0;
+        .label {
+            font-weight: 300;
+        }
     }
     .wrapper.beschreibung {
         p:first-child {
@@ -17,6 +49,14 @@
         }
         p {
             text-align: justify;
+        }
+    }
+    .flexslider {
+        background: transparent;
+        box-shadow: none;
+        border: none;
+        img {
+            @include border-radius(4px);
         }
     }
     @include breakpoint($max630) {

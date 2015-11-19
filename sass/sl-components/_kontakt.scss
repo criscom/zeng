@@ -1,52 +1,50 @@
-.page-node-73
-{
-    @include breakpoint($tablet)
-    {
+.page-node-73 {
+    h3.office {
+        font-weight: 300;
+    }
+
+    @include breakpoint($tablet) {
         .node-page,
-        .block-webform
-        {
+        .block-webform {
             width: 49%;
         }
-        .node-page
-        {
-            float: left;
 
+        .node-page {
+            float: left;
             margin-right: 1%;
         }
-        .block-webform
-        {
-            float: right;
 
+        .block-webform {
+            float: right;
             margin-top: 96px;
             margin-top: 6rem;
             margin-left: 1%;
-            h2
-            {
+
+            h2 {
                 line-height: 24px;
                 line-height: 1.5rem;
-
                 margin-bottom: 26px;
                 margin-bottom: 1.625rem;
             }
         }
     }
-    .block-webform
-    {
-        h2
-        {
+
+
+    .block-webform {
+        h2 {
             font-size: 19px;
             font-size: 1.17rem;
         }
-        label
-        {
+
+        label {
             font-weight: 300;
         }
-        .button-primary
-        {
+
+        .button-primary {
             border-color: $border;
             background-color: $box;
-            &:hover
-            {
+
+            &:hover {
                 border-color: darken($border, 20%);
                 background-color: darken($box, 20%);
             }
