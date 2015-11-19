@@ -6,16 +6,11 @@ function getHashFilter() {
   return hashFilter && decodeURIComponent( hashFilter );
 }
 
-$( function() {
+jQuery( function() {
 
-  var $container = $('.isotope');
+  var $container = jQuery('.isotope');
 
   // bind filter button click
-  var $filters = $('#filters').on( 'click', 'button', function() {
-    var filterAttr = $( this ).attr('data-filter');
-    // set filter in hash
-    location.hash = 'filter=' + encodeURIComponent( filterAttr );
-  });
 
   var isIsotopeInit = false;
 
@@ -25,19 +20,23 @@ $( function() {
       return;
     }
     isIsotopeInit = true;
+
+    $container.isotope('destroy');
+
     // filter isotope
-    $container.isotope({
-      itemSelector: '.element-item',
+    jQuery('.view-display-id-page #isotope-container').isotope({
+      itemSelector: '.isotope-element',
       filter: hashFilter
     });
     // set selected class on button
     if ( hashFilter ) {
-      $filters.find('.is-checked').removeClass('is-checked');
-      $filters.find('[data-filter="' + hashFilter + '"]').addClass('is-checked');
+      console.log(hashFilter);
+      jQuery('.filterbutton').removeClass('selected');
+      jQuery('.filterbutton[data-option-value="' + hashFilter + '"]').addClass('selected');
     }
   }
 
-  $(window).on( 'hashchange', onHashchange );
+  jQuery(window).on( 'hashchange', onHashchange );
   // trigger event handler to init Isotope
   onHashchange();
 });
