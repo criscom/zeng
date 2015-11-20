@@ -37,12 +37,23 @@
         width: 58% ;
     }
     .wrapper {
+        clear: both;
         padding: 6px 0;
         padding: .375rem 0;
         .label {
             font-weight: 300;
         }
     }
+    .wrapper.kategorie {
+        @include clearfix();
+        .label, .field {
+            line-height: 1.42857143;
+            float: left;
+        }
+    }
+
+
+
     .wrapper.beschreibung {
         p:first-child {
             margin-top: 0;
