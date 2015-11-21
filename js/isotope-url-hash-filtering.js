@@ -24,7 +24,7 @@ jQuery( function() {
     $container.isotope('destroy');
 
     // filter isotope
-    jQuery('.view-display-id-page #isotope-container').isotope({
+    jQuery('.view-display-id-page #isotope-container').isotope({ // also throwing an error
       itemSelector: '.isotope-element',
       filter: hashFilter
     });
