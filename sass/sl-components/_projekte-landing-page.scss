@@ -35,43 +35,46 @@ ul.isotope-filters {
 .isotope-element {
     width: 280px; // 0 - 480px
     height: 270px;
+    width: 100%;
+    height: auto;
     background: transparent;
     border: 1px solid $box;
     @include border-radius(4px);
-    img {
-        width: 280px;
-    }
-    @include breakpoint($range481-568) {
-        width: 254px;
-        height: 260px;
-    }
-    @include breakpoint($range569-667) {
-        width: 302px;
-    img {
-        width: 302px;
-    }
-    }
+    // img {
+    //     width: 280px;
+    // }
+    // @include breakpoint($range481-568) {
+    //     width: 254px;
+    //     height: 260px;
+    // }
+    // @include breakpoint($range569-667) {
+    //     width: 302px;
+    // img {
+    //     width: 302px;
+    // }
+    // }
     @include breakpoint($desktop) {
-        width: 270px;
-        height: 270px;
-        img {
-            width: 270px;
-        }
+        width: 23%;
+        // width: 270px;
+        // height: 270px;
+        // img {
+        //     width: 270px;
+        // }
     }
-    @include breakpoint($range1024-1024) {
-        width: 314px;
-        height: 292px;
-        img {
-            width: 314px;
-        }
-    }
-    @include breakpoint($range768-768) {
-        width: 229px;
-        height: 220px;
-        img {
-            width: 229px;
-        }
-    }
+    // @include breakpoint($range1024-1024) {
+    //     width: 314px;
+    //     height: 292px;
+    //     img {
+    //         width: 314px;
+    //     }
+    // }
+    // @include breakpoint($range768-768) {
+    //     width: 229px;
+    //     height: 220px;
+    //     img {
+    //         width: 229px;
+    //     }
+    // }
 }
 
 h2.projekt-titel {
