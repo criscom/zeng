@@ -3,6 +3,14 @@
     .field-name-title h2
     {
         margin-bottom: 0;
+
+            word-break: break-all;
+        // Non standard for webkit
+            word-break: break-word;
+        -ms-word-break: break-all;
+        -webkit-hyphens: auto;
+           -moz-hyphens: auto;
+                hyphens: auto;
     }
     .beitragsdatum
     {
@@ -16,8 +24,10 @@
             font-style: italic;
         }
     }
-    .field-name-field-image {
-        img {
+    .field-name-field-image
+    {
+        img
+        {
             @include border-radius(4px);
         }
     }
@@ -32,16 +42,21 @@ adding
 . '<span class="glyphicon glyphicon-cloud-download"></span>';
 */
 
-ul.download-file {
-    padding-left: 0;
-    list-style: none;
+ul.download-file
+{
     margin-top: 12px;
-    margin-top: 0.75rem;
-    li {
+    margin-top: .75rem;
+    padding-left: 0;
+
+    list-style: none;
+    li
+    {
         padding-top: 8px;
     }
-    .glyphicon {
+    .glyphicon
+    {
         float: left;
+
         padding-top: 2px;
         padding-right: 6px;
         padding-right: .375rem;
