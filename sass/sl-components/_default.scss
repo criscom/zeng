@@ -3,6 +3,10 @@
 ** added by criscom
 */
 
+h1, h2, h3 {
+    font-weight: 600;
+}
+
 .main h1{
     // text-transform: uppercase;
     @extend %header;
