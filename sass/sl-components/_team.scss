@@ -5,8 +5,9 @@
         border: none;
         box-shadow: none;
         text-align: left;
-        width: 372px;
-        width: 23.25rem;
+        width: 48%;
+        // width: 372px;
+        // width: 23.25rem;
         @include breakpoint($max1199) {
             width: 48%;
             margin: 0 0 32px 0;
@@ -23,8 +24,8 @@
     @include breakpoint($desktop) {
         .views-row
         {
-            min-height: 200px;
-            min-height: 12.5rem;
+            min-height: 220px;
+            min-height: 13.75rem;
         }
     }
 
@@ -64,15 +65,16 @@
         .group-left
         {
             float: left;
-
-            width: 37%;
-            margin-right: 3%;
+            width: 50%;
+            // width: 37%;
+            // margin-right: 3%;
         }
         .group-right
         {
             // float: right;
             float: left;
-
+            width: 37%;
+            margin-right: 3%;
             // width: 60%;
         }
         .field-name-body p
